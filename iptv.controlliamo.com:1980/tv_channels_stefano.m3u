@@ -1,0 +1,1389 @@
+#EXTM3U
+#EXTINF:-1,------- Tv Sat -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/63.ts
+#EXTINF:-1,Rai 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1.ts
+#EXTINF:-1,Rai 1 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2813.ts
+#EXTINF:-1,Rai 2 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2.ts
+#EXTINF:-1,Rai 2 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2812.ts
+#EXTINF:-1,Rai 3 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/3.ts
+#EXTINF:-1,Rai 3 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2811.ts
+#EXTINF:-1,Rete 4 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/4.ts
+#EXTINF:-1,Canale 5 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/5.ts
+#EXTINF:-1,Canale 5 (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2807.ts
+#EXTINF:-1,Italia 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/69.ts
+#EXTINF:-1,Top Crime
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1292.ts
+#EXTINF:-1,LA7
+http://iptv.controlliamo.com:1980/live/stefano/stefano/982.ts
+#EXTINF:-1,MTV8
+http://iptv.controlliamo.com:1980/live/stefano/stefano/983.ts
+#EXTINF:-1,DeeJayTV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2913.ts
+#EXTINF:-1,RSI LA 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/620.ts
+#EXTINF:-1,RSI LA 2 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/621.ts
+#EXTINF:-1,-------Sky  Cinema-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/64.ts
+#EXTINF:-1,Cinema 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/45.ts
+#EXTINF:-1,Cinema 1 (DSL Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2786.ts
+#EXTINF:-1,Cinema +1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1028.ts
+#EXTINF:-1,Cinema +24 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2400.ts
+#EXTINF:-1,Cinema +24 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2792.ts
+#EXTINF:-1,Cinema Hits HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2411.ts
+#EXTINF:-1,Cinema Hits (DSL Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2785.ts
+#EXTINF:-1,CinemaFamilyHD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/40.ts
+#EXTINF:-1,CinemaFamily SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2819.ts
+#EXTINF:-1,CinemaFamily+1HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1030.ts
+#EXTINF:-1,Cinema Passion HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/187.ts
+#EXTINF:-1,Cinema Comedy HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/41.ts
+#EXTINF:-1,Cinema Comedy SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2791.ts
+#EXTINF:-1,Cinema Max HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/77.ts
+#EXTINF:-1,Cinema Max SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2820.ts
+#EXTINF:-1,Cinema Max +1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1049.ts
+#EXTINF:-1,Cinema Cult HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/314.ts
+#EXTINF:-1,Cinema Classic HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/240.ts
+#EXTINF:-1,Sky 3D
+http://iptv.controlliamo.com:1980/live/stefano/stefano/994.ts
+#EXTINF:-1,------- Intrattenimento -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/124.ts
+#EXTINF:-1,Sky Uno HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2419.ts
+#EXTINF:-1,Sky Uno (DSL Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2781.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/448.ts
+#EXTINF:-1,Sky Atlantic HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/70.ts
+#EXTINF:-1,Sky Atlantic (dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2783.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1338.ts
+#EXTINF:-1,Fox HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/449.ts
+#EXTINF:-1,Fox SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2817.ts
+#EXTINF:-1,Fox +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/999.ts
+#EXTINF:-1,Fox Life HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/237.ts
+#EXTINF:-1,Fox Life SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2818.ts
+#EXTINF:-1,Fox Life +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/997.ts
+#EXTINF:-1,Fox Crime HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/128.ts
+#EXTINF:-1,Fox Crime (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2784.ts
+#EXTINF:-1,Fox Crime +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/998.ts
+#EXTINF:-1,Fox Files
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2871.ts
+#EXTINF:-1,Fox Comedy HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/129.ts
+#EXTINF:-1,Fox Animation HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/450.ts
+#EXTINF:-1,Gambero Rosso HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/247.ts
+#EXTINF:-1,History HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/387.ts
+#EXTINF:-1,AXN HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/238.ts
+#EXTINF:-1,AXN HD (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2907.ts
+#EXTINF:-1,AXN +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2908.ts
+#EXTINF:-1,AXN Sci-FI
+http://iptv.controlliamo.com:1980/live/stefano/stefano/451.ts
+#EXTINF:-1,DMAX HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2857.ts
+#EXTINF:-1,AutoMoto TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2753.ts
+#EXTINF:-1,La 5
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1283.ts
+#EXTINF:-1,Mediaset ITALIA 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/888.ts
+#EXTINF:-1,Iris
+http://iptv.controlliamo.com:1980/live/stefano/stefano/887.ts
+#EXTINF:-1,Focus
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1000.ts
+#EXTINF:-1,Rai Premium
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2855.ts
+#EXTINF:-1,Rai 4
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2924.ts
+#EXTINF:-1,Rai 5
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2925.ts
+#EXTINF:-1,La3
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2917.ts
+#EXTINF:-1,laeffe
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2918.ts
+#EXTINF:-1,GIALLO
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2916.ts
+#EXTINF:-1,MARCOPOLO
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2919.ts
+#EXTINF:-1,Rai Movie
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2856.ts
+#EXTINF:-1,Alice
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2728.ts
+#EXTINF:-1,cielo HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/458.ts
+#EXTINF:-1,Mediaset Extra
+http://iptv.controlliamo.com:1980/live/stefano/stefano/996.ts
+#EXTINF:-1,Comedy Central
+http://iptv.controlliamo.com:1980/live/stefano/stefano/493.ts
+#EXTINF:-1,Real Time HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/454.ts
+#EXTINF:-1,TV2000
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2752.ts
+#EXTINF:-1,Lei
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2758.ts
+#EXTINF:-1,DoveTv
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2809.ts
+#EXTINF:-1,POKERItalia24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1088.ts
+#EXTINF:-1,Sicilia Channel
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2929.ts
+#EXTINF:-1,Telecolor
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2931.ts
+#EXTINF:-1,Antenna Sicilia
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2906.ts
+#EXTINF:-1,7 Gold
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2905.ts
+#EXTINF:-1,Telenorba
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2756.ts
+#EXTINF:-1,Fashion TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2751.ts
+#EXTINF:-1,TeenNick
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2755.ts
+#EXTINF:-1,Tremedia
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2816.ts
+#EXTINF:-1,Split TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2930.ts
+#EXTINF:-1,------- Cultura -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/463.ts
+#EXTINF:-1,NationalGeo HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/126.ts
+#EXTINF:-1,NationalGeo +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2884.ts
+#EXTINF:-1,NatGeo Wild HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/466.ts
+#EXTINF:-1,NatGeo Wild +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2808.ts
+#EXTINF:-1,Sky Arte HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/469.ts
+#EXTINF:-1,eXplora HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/191.ts
+#EXTINF:-1,NatGeo People HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/470.ts
+#EXTINF:-1,DiscoveryT&L HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/467.ts
+#EXTINF:-1,Discovery Sci HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/465.ts
+#EXTINF:-1,Discovery HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/127.ts
+#EXTINF:-1,Discovery +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2810.ts
+#EXTINF:-1,Animal Planet
+http://iptv.controlliamo.com:1980/live/stefano/stefano/492.ts
+#EXTINF:-1,CI Crime+Inv.HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/464.ts
+#EXTINF:-1,CACCIA e Pesca
+http://iptv.controlliamo.com:1980/live/stefano/stefano/600.ts
+#EXTINF:-1,PESCA e Caccia
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1313.ts
+#EXTINF:-1,-------Sky Sport -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/109.ts
+#EXTINF:-1,Sky Sport24 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/114.ts
+#EXTINF:-1,Sky Sport24 (DSL Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2782.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/113.ts
+#EXTINF:-1,Sky Sport 1 (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2802.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/116.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/479.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2403.ts
+#EXTINF:-1,Sky Sport Plus SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2793.ts
+#EXTINF:-1,Fox Sports HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/195.ts
+#EXTINF:-1,Fox Sports SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2914.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/472.ts
+#EXTINF:-1,Sky Sport F1 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2794.ts
+#EXTINF:-1,Sky Sport Moto GP HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/473.ts
+#EXTINF:-1,Sky Sport Moto GP SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2797.ts
+#EXTINF:-1,J | Juventus TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1229.ts
+#EXTINF:-1,Roma Channel
+http://iptv.controlliamo.com:1980/live/stefano/stefano/738.ts
+#EXTINF:-1,Inter Channel
+http://iptv.controlliamo.com:1980/live/stefano/stefano/476.ts
+#EXTINF:-1,Milan Channel
+http://iptv.controlliamo.com:1980/live/stefano/stefano/478.ts
+#EXTINF:-1,Lazio Style Ch
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2726.ts
+#EXTINF:-1,Bike Channel
+http://iptv.controlliamo.com:1980/live/stefano/stefano/845.ts
+#EXTINF:-1,Supertennis HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/475.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1364.ts
+#EXTINF:-1,Rai Sport 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1363.ts
+#EXTINF:-1,Class HorseTV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2837.ts
+#EXTINF:-1,UnireSat
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2932.ts
+#EXTINF:-1,-------Calcio -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/112.ts
+#EXTINF:-1,Calcio Info
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2814.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/117.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2795.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/30.ts
+#EXTINF:-1,Sky Calcio 1 (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2803.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/24.ts
+#EXTINF:-1,Sky Calcio 2 (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2804.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/480.ts
+#EXTINF:-1,Sky Calcio 3 (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2805.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/481.ts
+#EXTINF:-1,Sky Calcio 4 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2801.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/482.ts
+#EXTINF:-1,Sky Calcio 5 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2800.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/483.ts
+#EXTINF:-1,Sky Calcio 6 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2796.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/484.ts
+#EXTINF:-1,Sky Calcio 7 SD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2799.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/841.ts
+#EXTINF:-1,Sky Calcio 9
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2581.ts
+#EXTINF:-1,Sky Calcio 10
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2910.ts
+#EXTINF:-1,Sky Calcio 11
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2911.ts
+#EXTINF:-1,Sky Calcio 12
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2912.ts
+#EXTINF:-1,----- BeIN Sports -----
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2737.ts
+#EXTINF:-1,Bein Sports 1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2729.ts
+#EXTINF:-1,Bein Sports 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2730.ts
+#EXTINF:-1,Bein Sports 3
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2731.ts
+#EXTINF:-1,Bein Sports 4
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2732.ts
+#EXTINF:-1,Bein Sports 5
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2733.ts
+#EXTINF:-1,Bein Sports 6
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2734.ts
+#EXTINF:-1,Bein Sports 7
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2735.ts
+#EXTINF:-1,Bein Sports 8
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2736.ts
+#EXTINF:-1,-------  Bambini -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/471.ts
+#EXTINF:-1,Baby TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2909.ts
+#EXTINF:-1,Boing
+http://iptv.controlliamo.com:1980/live/stefano/stefano/488.ts
+#EXTINF:-1,Boomerang
+http://iptv.controlliamo.com:1980/live/stefano/stefano/490.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.controlliamo.com:1980/live/stefano/stefano/256.ts
+#EXTINF:-1,Cartoonito
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2402.ts
+#EXTINF:-1,DeAKids
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1365.ts
+#EXTINF:-1,DeAJunior
+http://iptv.controlliamo.com:1980/live/stefano/stefano/641.ts
+#EXTINF:-1,Disney Ch. +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/486.ts
+#EXTINF:-1,Disney XD HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/489.ts
+#EXTINF:-1,-frisbee-
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2915.ts
+#EXTINF:-1,K2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1001.ts
+#EXTINF:-1,MAN-GA
+http://iptv.controlliamo.com:1980/live/stefano/stefano/455.ts
+#EXTINF:-1,Nick Jr
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2405.ts
+#EXTINF:-1,Nickelodeon
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2920.ts
+#EXTINF:-1,Rai yoyo
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2927.ts
+#EXTINF:-1,Rai Gulp
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2926.ts
+#EXTINF:-1,Super!
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1369.ts
+#EXTINF:-1,-------NEWS-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/930.ts
+#EXTINF:-1,Sky TG24 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/37.ts
+#EXTINF:-1,TgCom24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/995.ts
+#EXTINF:-1,Rai News 24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2872.ts
+#EXTINF:-1,------- MediaSet Premium-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/68.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/495.ts
+#EXTINF:-1,Premium Cinema HD (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2823.ts
+#EXTINF:-1,Premium Cinema +24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/119.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1349.ts
+#EXTINF:-1,Premium Cinema 2 HD (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2822.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1350.ts
+#EXTINF:-1,Premium Action HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1360.ts
+#EXTINF:-1,Premium Action HD  (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2821.ts
+#EXTINF:-1,Premium Action +24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/328.ts
+#EXTINF:-1,Premium  Energy
+http://iptv.controlliamo.com:1980/live/stefano/stefano/61.ts
+#EXTINF:-1,Premium Comedy
+http://iptv.controlliamo.com:1980/live/stefano/stefano/121.ts
+#EXTINF:-1,Premium Crime HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1371.ts
+#EXTINF:-1,Premium Crime (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2923.ts
+#EXTINF:-1,Premium Crime +24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/120.ts
+#EXTINF:-1,Premium Emotion
+http://iptv.controlliamo.com:1980/live/stefano/stefano/58.ts
+#EXTINF:-1,Premium Joy
+http://iptv.controlliamo.com:1980/live/stefano/stefano/57.ts
+#EXTINF:-1,Premium Stories
+http://iptv.controlliamo.com:1980/live/stefano/stefano/123.ts
+#EXTINF:-1,Premium Studio Universal
+http://iptv.controlliamo.com:1980/live/stefano/stefano/122.ts
+#EXTINF:-1,BBC Knowledge
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2922.ts
+#EXTINF:-1,Premium Disney Junior
+http://iptv.controlliamo.com:1980/live/stefano/stefano/943.ts
+#EXTINF:-1,Premium Cartoon Network
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1294.ts
+#EXTINF:-1,------- Premium Sport -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1002.ts
+#EXTINF:-1,Premium Sport HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1372.ts
+#EXTINF:-1,Premium Sport (Dsl Lente)
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2806.ts
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/946.ts
+#EXTINF:-1,Eurosport 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/945.ts
+#EXTINF:-1,-------Premium Calcio-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/502.ts
+#EXTINF:-1,Premium Calcio HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/501.ts
+#EXTINF:-1,Premium Calcio
+http://iptv.controlliamo.com:1980/live/stefano/stefano/338.ts
+#EXTINF:-1,Premium Calcio 1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1679.ts
+#EXTINF:-1,Premium Calcio 2 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/327.ts
+#EXTINF:-1,Premium Calcio 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/499.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptv.controlliamo.com:1980/live/stefano/stefano/500.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptv.controlliamo.com:1980/live/stefano/stefano/936.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptv.controlliamo.com:1980/live/stefano/stefano/937.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptv.controlliamo.com:1980/live/stefano/stefano/938.ts
+#EXTINF:-1,-------Primafila Live-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1086.ts
+#EXTINF:-1,Vetrina Primafila
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2655.mkv
+#EXTINF:-1,Primafila 1 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2489.ts
+#EXTINF:-1,Primafila 2 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2490.ts
+#EXTINF:-1,Primafila 3 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2493.ts
+#EXTINF:-1,Primafila 4 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2494.ts
+#EXTINF:-1,Primafila 5 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2495.ts
+#EXTINF:-1,Primafila 6 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2507.ts
+#EXTINF:-1,Primafila 7 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2497.ts
+#EXTINF:-1,Primafila 8 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2508.ts
+#EXTINF:-1,Primafila 9 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2500.ts
+#EXTINF:-1,Primafila 10 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2503.ts
+#EXTINF:-1,Primafila 11 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2506.ts
+#EXTINF:-1,Primafila 12 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2509.ts
+#EXTINF:-1,Primafila 13 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2510.ts
+#EXTINF:-1,Primafila 14 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2511.ts
+#EXTINF:-1,Primafila 15 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2512.ts
+#EXTINF:-1,Primafila 16 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2513.ts
+#EXTINF:-1,Primafila 17 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2514.ts
+#EXTINF:-1,Primafila 18 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2515.ts
+#EXTINF:-1,Primafila 19 Live
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2516.ts
+#EXTINF:-1,-------PrimaFila Vod-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/65.ts
+#EXTINF:-1,Primafila 1-2 Inside Out
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2656.mkv
+#EXTINF:-1,Primafila 3-4 The Walk
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2936.mkv
+#EXTINF:-1,Primafila 5-6 Torno indietro e cambio vita
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2937.mkv
+#EXTINF:-1,Primafila 7-8 Hotel Transylvania 2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2766.mkv
+#EXTINF:-1,Primafila 9-10 Left Behind - La Profezia
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2938.mkv
+#EXTINF:-1,Primafila 11-12 Sopravvissuto - The Martian
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2657.mkv
+#EXTINF:-1,Primafila 13-14 Everest
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2658.mkv
+#EXTINF:-1,Primafila 15 Tutte lo vogliono
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2659.mkv
+#EXTINF:-1,Primafila 16 Predestination
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2767.mkv
+#EXTINF:-1,Primafila 17 Teneramente folle
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2768.mkv
+#EXTINF:-1,Primafila 18-19 Contagious
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2765.mkv
+#EXTINF:-1,-------Film 3D -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/947.ts
+#EXTINF:-1,Step Up 4 Revolution 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2897.mkv
+#EXTINF:-1,Pacific Rim 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2680.mkv
+#EXTINF:-1,Non Aprite Quella Porta 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2679.mkv
+#EXTINF:-1,Eco Planet 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2678.mkv
+#EXTINF:-1,The Lego Movie 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2385.mkv
+#EXTINF:-1,G.I Joe La Vendetta 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2675.mkv
+#EXTINF:-1,Dino E La Macchina Del Tempo 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2674.mkv
+#EXTINF:-1,African Safari 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2673.mkv
+#EXTINF:-1,Tartarughe Ninja 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2384.mkv
+#EXTINF:-1,Pompei 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2383.mkv
+#EXTINF:-1,Khumba 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2382.mkv
+#EXTINF:-1,Justin e i Cavalieri Valorosi 3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2381.mkv
+#EXTINF:-1,I.Puffi.2.3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2380.mkv
+#EXTINF:-1,Gravity.2013.3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2379.mkv
+#EXTINF:-1,Cattivissimo.Me.2.3D
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2378.mkv
+#EXTINF:-1,------- CARTONI -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/603.ts
+#EXTINF:-1,Alla Ricerca di Nemo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2529.mkv
+#EXTINF:-1,Alvin Superstar 3
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2292.mkv
+#EXTINF:-1,Astro.Boy.
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2365.mkv
+#EXTINF:-1,Bambi
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2864.mkv
+#EXTINF:-1,Barbie Super Principessa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2366.mkv
+#EXTINF:-1,Barbie E Il Tesoro Dei Cuccioli
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2701.mkv
+#EXTINF:-1,Buon Natale Pinocchio
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2895.mkv
+#EXTINF:-1,Cattivissimo.Me
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2374.mkv
+#EXTINF:-1,Dumbo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2432.mkv
+#EXTINF:-1,Dragon.Trainer.2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2375.mkv
+#EXTINF:-1,Dragon Trainer
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2376.mkv
+#EXTINF:-1,Dino.E.La.Macchina.Del.Tempo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2367.mkv
+#EXTINF:-1,Home A Casa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2777.mkv
+#EXTINF:-1,Hotel.Transylvania
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2377.mkv
+#EXTINF:-1,Il gatto con gli stivali
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2879.mkv
+#EXTINF:-1,Il Libro Della Giungla
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2454.mkv
+#EXTINF:-1,I Pinguini di madagascar
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2774.mkv
+#EXTINF:-1,I 7 Nani
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2773.mkv
+#EXTINF:-1,la carica dei 101
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2898.mkv
+#EXTINF:-1,Lilly e il vagabondo 2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2881.mkv
+#EXTINF:-1,Lupin III VS Detective Conan
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2369.mkv
+#EXTINF:-1,Koda Fratello Orso
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2368.mkv
+#EXTINF:-1,Masha e Orso
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2517.mkv
+#EXTINF:-1,Minions
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2394.mkv
+#EXTINF:-1,Nut Jobs Operazione Noccioline
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2775.mkv
+#EXTINF:-1,Planes 2 Missione Antincendio
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2776.mkv
+#EXTINF:-1,Puzzole Alla Riscossa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2894.mkv
+#EXTINF:-1,Sammy 2 La Grande Fuga
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2887.mkv
+#EXTINF:-1,SpongeBob.Fuori.Dall.Acqua
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2372.mkv
+#EXTINF:-1,Shrek 2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2371.mkv
+#EXTINF:-1,Shrek
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2370.mkv
+#EXTINF:-1,Tom E Jerry incontrano Sherlock Holmes
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2669.mkv
+#EXTINF:-1,Tom & Jerry Incontrano Sherlock Holmes
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2373.mkv
+#EXTINF:-1,-------FILM IN SALA-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2109.ts
+#EXTINF:-1,Se Mi Lasci Non Vale
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2865.mkv
+#EXTINF:-1,Joy
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2839.mkv
+#EXTINF:-1,Il Ponte Delle Spie
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2838.mkv
+#EXTINF:-1,Steve Jobs
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2746.mkv
+#EXTINF:-1,Revenant Redivivo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2501.mkv
+#EXTINF:-1,Creed Nato Per Combattere
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2491.mkv
+#EXTINF:-1,Quo Vado
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2410.mkv
+#EXTINF:-1,Masha e Orso Amici per Sempre
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2418.mkv
+#EXTINF:-1,Il piccolo Principe
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2417.mkv
+#EXTINF:-1,Vacanze Ai Caraibi
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2406.mkv
+#EXTINF:-1,Star Wars Episodio VII Il Risveglio Della Forza
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2407.mkv
+#EXTINF:-1,-------Ondemand -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/66.ts
+#EXTINF:-1,Ancora vivo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2861.mkv
+#EXTINF:-1,Angel of the Skies
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2739.mkv
+#EXTINF:-1,Anaconda - Sentiero di sangue
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2738.mkv
+#EXTINF:-1,Awake - Anestesia Cosciente
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2686.mkv
+#EXTINF:-1,Alice In Wonderland 1 tempo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2676.mkv
+#EXTINF:-1,Alice In Wonderland 2 tempo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2677.mkv
+#EXTINF:-1,Affrontando i Giganti
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2718.mkv
+#EXTINF:-1,Ace Ventura Missione Africa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2759.mkv
+#EXTINF:-1,Automata
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2386.mkv
+#EXTINF:-1,Avenging Angelo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2578.mkv
+#EXTINF:-1,Amori elementari
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2579.mkv
+#EXTINF:-1,Annie
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2537.mkv
+#EXTINF:-1,Andiamo a Quel Paese - Ficarra e Picone
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2536.mkv
+#EXTINF:-1,A Certain Justice
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2271.mkv
+#EXTINF:-1,Apocalisse Zero
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2295.mkv
+#EXTINF:-1,Biancaneve e il cacciatore
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2933.mkv
+#EXTINF:-1,Barbecue
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2866.mkv
+#EXTINF:-1,Boat Trip (Crociera Per Single)
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2867.mkv
+#EXTINF:-1,Bad Words
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2859.mkv
+#EXTINF:-1,Black Hawk Down
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2849.mkv
+#EXTINF:-1,Benvenuto Presidente
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2475.mkv
+#EXTINF:-1,Bad Boys
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2681.mkv
+#EXTINF:-1,Black Mass L.Ultimo Gangster
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2666.mkv
+#EXTINF:-1,Bagnomaria
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2577.mkv
+#EXTINF:-1,Bastardo Dentro
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2518.mkv
+#EXTINF:-1,Belle
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2299.mkv
+#EXTINF:-1,Battleship
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2297.mkv
+#EXTINF:-1,Bride Wars La Mia Miglior Nemica
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2275.mkv
+#EXTINF:-1,Bicentennial Man
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2274.mkv
+#EXTINF:-1,Beyond The Lights
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2273.mkv
+#EXTINF:-1,Black Hole - Il Buco Nero
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2557.mkv
+#EXTINF:-1,Blu Profondo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2704.mkv
+#EXTINF:-1,Black Out - Catastrofe a Los Angeles
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2703.mkv
+#EXTINF:-1,Babbo Bastardo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2702.mkv
+#EXTINF:-1,Captain America Il Primo Vendicatore
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2888.mkv
+#EXTINF:-1,Cose Nostre Malavita
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2863.mkv
+#EXTINF:-1,Corpi Da Reato
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2860.mkv
+#EXTINF:-1,Captain Webb
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2684.mkv
+#EXTINF:-1,Cop - Polizia violenta
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2670.mkv
+#EXTINF:-1,Come Ti Rovino Le Vacanze
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2539.mkv
+#EXTINF:-1,Cercasi amore per la fine del mondo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2558.mkv
+#EXTINF:-1,Cinquanta Sfumature Di Grigio
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2538.mkv
+#EXTINF:-1,Cado dalle nubi
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2719.mkv
+#EXTINF:-1,Cenerentola
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2302.mkv
+#EXTINF:-1,Class Enemy
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2277.mkv
+#EXTINF:-1,Calvario
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2276.mkv
+#EXTINF:-1,Detective Dee E Il Mistero Della Fiamma Fantasma
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2671.mkv
+#EXTINF:-1,Diamante Nero
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2682.mkv
+#EXTINF:-1,Dracula Untold
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2492.mkv
+#EXTINF:-1,Dredd - La Legge Sono Io
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2412.mkv
+#EXTINF:-1,Dead Rising Watchtower
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2307.mkv
+#EXTINF:-1,Drive angry
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2540.mkv
+#EXTINF:-1,Everest
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2448.mkv
+#EXTINF:-1,È Arrivato Nostro Figlio
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2349.mkv
+#EXTINF:-1,Ex amici come prima
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2310.mkv
+#EXTINF:-1,Eichmann
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2279.mkv
+#EXTINF:-1,E Fu Sera E Fu Mattina
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2278.mkv
+#EXTINF:-1,Final Destination 1
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2903.mkv
+#EXTINF:-1,Final Destination 3
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2935.mkv
+#EXTINF:-1,Final Destination 4
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2901.mkv
+#EXTINF:-1,Final Destination 5
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2934.mkv
+#EXTINF:-1,Finalmente la felicita
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2720.mkv
+#EXTINF:-1,Finders Keepers
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2414.mkv
+#EXTINF:-1,Frances Ha
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2760.mkv
+#EXTINF:-1,Fast And Furious 7
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2280.mkv
+#EXTINF:-1,Fury
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2481.mkv
+#EXTINF:-1,Gigolo Per Caso
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2874.mkv
+#EXTINF:-1,Gothika
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2858.mkv
+#EXTINF:-1,Ghost Movie 2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2740.mkv
+#EXTINF:-1,Gravity
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2284.mkv
+#EXTINF:-1,Godzilla
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2283.mkv
+#EXTINF:-1,Gemma Bovery
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2282.mkv
+#EXTINF:-1,Hitman - L'assassino
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2896.mkv
+#EXTINF:-1,Hazzard
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2555.mkv
+#EXTINF:-1,Ho ucciso napoleone
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2741.mkv
+#EXTINF:-1,Harry Potter e l'Ordine della Fenice
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2387.mkv
+#EXTINF:-1,Hudson Hawk - il mago del furto
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2285.mkv
+#EXTINF:-1,Kilometro 31
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2853.mkv
+#EXTINF:-1,Il cuore grande delle ragazze
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2878.mkv
+#EXTINF:-1,Il Mio Migliore Incubo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2877.mkv
+#EXTINF:-1,I Due Volti Di Gennaio
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2868.mkv
+#EXTINF:-1,Il segno della libellula - Dragonfly
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2780.mkv
+#EXTINF:-1,Il Padrino Parte II
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2742.mkv
+#EXTINF:-1,Il Padrino Parte III
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2749.mkv
+#EXTINF:-1,Il cacciatore di aquiloni
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2696.mkv
+#EXTINF:-1,Il Principe Abusivo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2409.mkv
+#EXTINF:-1,I Dominatori Dell'Universo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2691.mkv
+#EXTINF:-1,Il Fascino Indiscreto Dell Amore
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2541.mkv
+#EXTINF:-1,Il 7 e l' 8
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2542.mkv
+#EXTINF:-1,Il castello
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2575.mkv
+#EXTINF:-1,iberty Stands Still
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2576.mkv
+#EXTINF:-1,Inserzione Pericolosa 2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2526.mkv
+#EXTINF:-1,Il Piccolo Diavolo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2706.mkv
+#EXTINF:-1,Innocenza colposa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2294.mkv
+#EXTINF:-1,Il.Bambino.N.44
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2304.mkv
+#EXTINF:-1,Il Padre
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2287.mkv
+#EXTINF:-1,Il Mai Nato
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2291.mkv
+#EXTINF:-1,Il Grande Gatsby
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2290.mkv
+#EXTINF:-1,Il Curioso Caso Di Benjamin Button
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2289.mkv
+#EXTINF:-1,Il Centenario Che Saltò Dalla Finestra e Scomparve
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2288.mkv
+#EXTINF:-1,I fratelli grimm e l'incantevole strega
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2286.mkv
+#EXTINF:-1,Il Nascondiglio del Diavolo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2705.mkv
+#EXTINF:-1,Il bambino con il pigiama a righe
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2721.mkv
+#EXTINF:-1,Il Rapinatore
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2496.mkv
+#EXTINF:-1,Il Postino
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2528.mkv
+#EXTINF:-1,Il Violinista Del Diavolo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2476.mkv
+#EXTINF:-1,Il Diavolo Veste Prada
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2478.mkv
+#EXTINF:-1,Io Rom Romantica
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2487.mkv
+#EXTINF:-1,Il Ragazzo Della Porta Accanto
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2485.mkv
+#EXTINF:-1,Ip Man
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2892.mkv
+#EXTINF:-1,Ip Man II
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2329.mkv
+#EXTINF:-1,Ip Man - The Final Fight
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2326.mkv
+#EXTINF:-1,Insurgent
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2322.mkv
+#EXTINF:-1,Il.Quarto.Stato
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2313.mkv
+#EXTINF:-1,Il serpente e l'arcobaleno
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2320.mkv
+#EXTINF:-1,Il Santo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2318.mkv
+#EXTINF:-1,Il mistero del bosco 2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2316.mkv
+#EXTINF:-1,I.Fiumi.Di.Porpora.2000
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2311.mkv
+#EXTINF:-1,L.Amore Che Resta
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2893.mkv
+#EXTINF:-1,La Maledizione Dello Scorpione Di Giada
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2890.mkv
+#EXTINF:-1,La talpa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2883.mkv
+#EXTINF:-1,La nostra vita
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2880.mkv
+#EXTINF:-1,La cosa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2882.mkv
+#EXTINF:-1,Le 5 Leggende
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2876.mkv
+#EXTINF:-1,L'intrepido
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2862.mkv
+#EXTINF:-1,Lo Sguardo Di Satana Carrie
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2854.mkv
+#EXTINF:-1,Lovelace
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2544.mkv
+#EXTINF:-1,L'eliminatore
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2543.mkv
+#EXTINF:-1,La Matassa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2554.mkv
+#EXTINF:-1,Liberty Stands Still
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2585.mkv
+#EXTINF:-1,L'Impero Dei Lupi
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2583.mkv
+#EXTINF:-1,La leggenda di Al ,John e Jack
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2534.mkv
+#EXTINF:-1,Le Barzellette
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2707.mkv
+#EXTINF:-1,Le vacanze del piccolo Nicolas
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2393.mkv
+#EXTINF:-1,Last Summer
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2343.mkv
+#EXTINF:-1,La Famiglia Belier
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2342.mkv
+#EXTINF:-1,L.Allenatore.Nel.Pallone.II
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2340.mkv
+#EXTINF:-1,L'ultimo samurai
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2761.mkv
+#EXTINF:-1,L'Alba del Pianeta delle Scimmie
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2335.mkv
+#EXTINF:-1,L' Impero e la gloria
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2337.mkv
+#EXTINF:-1,Lucy
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2305.mkv
+#EXTINF:-1,Le ali della liberta
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2771.mkv
+#EXTINF:-1,Lo Sguardo Di Satana
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2303.mkv
+#EXTINF:-1,Lady killers
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2301.mkv
+#EXTINF:-1,La Vendetta Di Red Fury
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2293.mkv
+#EXTINF:-1,La Casa Del Diavolo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2300.mkv
+#EXTINF:-1,Le Leggi Del Desiderio
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2344.mkv
+#EXTINF:-1,La Vendetta di Carter
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2580.mkv
+#EXTINF:-1,La spina del diavolo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2502.mkv
+#EXTINF:-1,L.Ululato
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2504.mkv
+#EXTINF:-1,L.Ultimo Lupo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2498.mkv
+#EXTINF:-1,L Ultimo Cacciatore Di Streghe
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2505.mkv
+#EXTINF:-1,La Scelta Di Barbara
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2415.mkv
+#EXTINF:-1,La scuola piu bella del mondo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2744.mkv
+#EXTINF:-1,Ma Come Fa A Fare Tutto
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2900.mkv
+#EXTINF:-1,Mi Rifaccio Vivo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2852.mkv
+#EXTINF:-1,Mia moglie per finta
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2545.mkv
+#EXTINF:-1,Mad Max Fury Road
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2484.mkv
+#EXTINF:-1,Mune Il Guardiano Della Luna
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2723.mkv
+#EXTINF:-1,Mission Impossible-Protocollo Fantasma
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2398.mkv
+#EXTINF:-1,Maze Runner La Fuga
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2388.mkv
+#EXTINF:-1,Mr. Turner
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2346.mkv
+#EXTINF:-1,Malèna
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2345.mkv
+#EXTINF:-1,Manuale Scout Per L.Apocalisse Zombie
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2762.mkv
+#EXTINF:-1,melissa p
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2724.mkv
+#EXTINF:-1,Maps To The Stars
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2308.mkv
+#EXTINF:-1,Mamma
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2306.mkv
+#EXTINF:-1,Nightmare 3 - I guerrieri del sogno
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2779.mkv
+#EXTINF:-1,Notte Prima Degli Esami Oggi
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2689.mkv
+#EXTINF:-1,Nave fantasma
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2584.mkv
+#EXTINF:-1,Non c'e 2 Senza Te
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2312.mkv
+#EXTINF:-1,Operator
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2778.mkv
+#EXTINF:-1,Outcast
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2560.mkv
+#EXTINF:-1,Oggi Sposi, niente Sesso
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2532.mkv
+#EXTINF:-1,Ocean Tribe
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2716.mkv
+#EXTINF:-1,Peter Pan
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2869.mkv
+#EXTINF:-1,Point break-Punto di Rottura
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2685.mkv
+#EXTINF:-1,Protezione Testimoni
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2574.mkv
+#EXTINF:-1,Piccoli Affari Sporchi
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2708.mkv
+#EXTINF:-1,Pixels
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2421.mkv
+#EXTINF:-1,Programmato per uccidere
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2347.mkv
+#EXTINF:-1,Pulce Non Ce
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2348.mkv
+#EXTINF:-1,Paddington
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2314.mkv
+#EXTINF:-1,Percy Jackson  Il Mare Dei Mostri
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2486.mkv
+#EXTINF:-1,Porky's-Questi Pazzi Pazzi Porcelloni
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2697.mkv
+#EXTINF:-1,Quando Verrà la Pioggia.
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2709.mkv
+#EXTINF:-1,Ribelle The Brave
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2875.mkv
+#EXTINF:-1,Radio Killer La Corsa Continua
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2850.mkv
+#EXTINF:-1,Radio Killer 2 Fine Della Corsa
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2851.mkv
+#EXTINF:-1,Rapina Record A New York
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2499.mkv
+#EXTINF:-1,Ronaldo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2745.mkv
+#EXTINF:-1,Redeemer - Il Redentore
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2710.mkv
+#EXTINF:-1,Roger Waters - The Wall
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2395.mkv
+#EXTINF:-1,Real Steel
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2770.mkv
+#EXTINF:-1,Robin.Hood
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2350.mkv
+#EXTINF:-1,Rhinestone - Nick lo Scatenato
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2683.mkv
+#EXTINF:-1,SouthPaw L'Ultima Sfida
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2698.mkv
+#EXTINF:-1,Stà Zitto, non Rompere
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2535.mkv
+#EXTINF:-1,Sniper 3
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2531.mkv
+#EXTINF:-1,Strangerland
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2488.mkv
+#EXTINF:-1,Spy
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2413.mkv
+#EXTINF:-1,Suburra
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2431.mkv
+#EXTINF:-1,sotto falso nome
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2712.mkv
+#EXTINF:-1,Schwaenegger - Danko
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2711.mkv
+#EXTINF:-1,Schegge Di Paura
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2717.mkv
+#EXTINF:-1,Spectre
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2408.mkv
+#EXTINF:-1,Survivor
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2396.mkv
+#EXTINF:-1,Sopravvissuto - The Martian
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2389.mkv
+#EXTINF:-1,Suite Francese
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2364.mkv
+#EXTINF:-1,St.Vincent
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2363.mkv
+#EXTINF:-1,Sono Il Numero Quattro
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2361.mkv
+#EXTINF:-1,Sfida senza regole
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2358.mkv
+#EXTINF:-1,Scrivimi Ancora
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2355.mkv
+#EXTINF:-1,Sua Maestà
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2323.mkv
+#EXTINF:-1,Sils Maria
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2321.mkv
+#EXTINF:-1,Si Accettano Miracoli
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2319.mkv
+#EXTINF:-1,Shield Of Straw Proteggi L.Assassino
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2317.mkv
+#EXTINF:-1,Sai tenere una bugia
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2315.mkv
+#EXTINF:-1,Senza Santi in Paradiso
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2763.mkv
+#EXTINF:-1,Summit
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2699.mkv
+#EXTINF:-1,Super Mario Bros
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2547.mkv
+#EXTINF:-1,Sex Tape Finiti In Rete
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2546.mkv
+#EXTINF:-1,The Walk
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2904.mkv
+#EXTINF:-1,The Blues Brothers
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2891.mkv
+#EXTINF:-1,The Help
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2873.mkv
+#EXTINF:-1,taxi driver
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2870.mkv
+#EXTINF:-1,Torno Indietro E Cambio Vita
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2552.mkv
+#EXTINF:-1,The Terror Live
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2725.mkv
+#EXTINF:-1,Troy
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2692.mkv
+#EXTINF:-1,The Gallows - L'esecuzione
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2688.mkv
+#EXTINF:-1,Terraferma
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2687.mkv
+#EXTINF:-1,The Transporter I
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2548.mkv
+#EXTINF:-1,The Transporter II
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2549.mkv
+#EXTINF:-1,The Transporter III
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2550.mkv
+#EXTINF:-1,The Transporter Legacy
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2567.mkv
+#EXTINF:-1,The Sniper
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2551.mkv
+#EXTINF:-1,The Moody Blues - Lovely To See You
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2561.mkv
+#EXTINF:-1,The Killer.com
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2520.mkv
+#EXTINF:-1,The one
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2582.mkv
+#EXTINF:-1,TANGO & CASH
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2586.mkv
+#EXTINF:-1,The Pentagon Papers
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2530.mkv
+#EXTINF:-1,The Million Dollar Hotel
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2713.mkv
+#EXTINF:-1,Tornado - La Furia Del Diavolo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2748.mkv
+#EXTINF:-1,The Divide
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2747.mkv
+#EXTINF:-1,Terminator Genisys
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2422.mkv
+#EXTINF:-1,Tutto Molto Bello
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2357.mkv
+#EXTINF:-1,The Prince Tempo Di Uccidere
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2359.mkv
+#EXTINF:-1,Taken Io Vi Trovero
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2360.mkv
+#EXTINF:-1,Tusk
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2334.mkv
+#EXTINF:-1,Tre Cuori
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2332.mkv
+#EXTINF:-1,Top Five
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2331.mkv
+#EXTINF:-1,The Water Diviner
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2330.mkv
+#EXTINF:-1,The Town
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2328.mkv
+#EXTINF:-1,The Search
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2324.mkv
+#EXTINF:-1,The Bourne Legacy
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2327.mkv
+#EXTINF:-1,The Big Wedding
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2325.mkv
+#EXTINF:-1,Transformers 4 - L'era Dell'Estinzione
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2672.mkv
+#EXTINF:-1,The Visit
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2764.mkv
+#EXTINF:-1,Un Fantastico Via Vai
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2553.mkv
+#EXTINF:-1,Una Notte Da Leoni 1
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2693.mkv
+#EXTINF:-1,Una.Notte.Da.Leoni.2
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2694.mkv
+#EXTINF:-1,Una notte da Leoni 3
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2695.mkv
+#EXTINF:-1,Un Natale Stupefacente
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2477.mkv
+#EXTINF:-1,Uomo - Antonio Albanese
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2715.mkv
+#EXTINF:-1,Universal Soldier - The Return
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2714.mkv
+#EXTINF:-1,Unthinkable
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2351.mkv
+#EXTINF:-1,Universal Soldier
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2354.mkv
+#EXTINF:-1,Under the skin
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2356.mkv
+#EXTINF:-1,Una.Notte.Per.Sopravvivere
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2353.mkv
+#EXTINF:-1,Un Natale Da Ricordare
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2352.mkv
+#EXTINF:-1,Un Appartamento Per Tre
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2309.mkv
+#EXTINF:-1,Un Matrimonio Da Favola
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2336.mkv
+#EXTINF:-1,Un Fantasma Per Amico
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2338.mkv
+#EXTINF:-1,Kingsman Secret Service
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2483.mkv
+#EXTINF:-1,Kill Zone Ai Confini Della Giustizia
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2743.mkv
+#EXTINF:-1,Whiplash
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2392.mkv
+#EXTINF:-1,We Are Your Friends
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2391.mkv
+#EXTINF:-1,We Are The Best
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2341.mkv
+#EXTINF:-1,Jason X
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2527.mkv
+#EXTINF:-1,Johnny Stecchino
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2533.mkv
+#EXTINF:-1,Jurassic World
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2482.mkv
+#EXTINF:-1,Jeepers Creepers - Il Canto del Diavolo
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2722.mkv
+#EXTINF:-1,Janara
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2333.mkv
+#EXTINF:-1,Jimmys Hall
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2298.mkv
+#EXTINF:-1,Jersey Boys
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2296.mkv
+#EXTINF:-1,5ive Girls
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2667.mkv
+#EXTINF:-1,300  L'alba Di Un Impero
+http://iptv.controlliamo.com:1980/movie/stefano/stefano/2270.mkv
+#EXTINF:-1,-------Musica -------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/137.ts
+#EXTINF:-1,M2Otv
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2573.ts
+#EXTINF:-1,Radio 105
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2525.ts
+#EXTINF:-1,Radio Italia
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2524.ts
+#EXTINF:-1,Videolina
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2522.ts
+#EXTINF:-1,Studio 90 Italia
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2523.ts
+#EXTINF:-1,Radio Montecarlo
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2750.ts
+#EXTINF:-1,MTV 8
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2757.ts
+#EXTINF:-1,MTV Next
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2754.ts
+#EXTINF:-1,Onda Latina
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2921.ts
+#EXTINF:-1,-------TEDESCHI-------
+http://iptv.controlliamo.com:1980/live/stefano/stefano/1945.ts
+#EXTINF:-1,DE  ZDF
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2591.ts
+#EXTINF:-1,DE ARD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2587.ts
+#EXTINF:-1,DE  RTL 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2596.ts
+#EXTINF:-1,DE  RTL Television
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2593.ts
+#EXTINF:-1,DE  RTL Passion
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2648.ts
+#EXTINF:-1,DE  RTL Nitro
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2594.ts
+#EXTINF:-1,DE  RTL Living
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2595.ts
+#EXTINF:-1,DE  RTL Crime
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2649.ts
+#EXTINF:-1,DE  Super RTL
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2592.ts
+#EXTINF:-1,DE  Pro Sieben Maxx
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2605.ts
+#EXTINF:-1,DE  Pro 7 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2650.ts
+#EXTINF:-1,DE  KIKA
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2598.ts
+#EXTINF:-1,DE  Kabel Eins
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2608.ts
+#EXTINF:-1,DE  Sat 1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2603.ts
+#EXTINF:-1,DE  Sat 1 Gold
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2602.ts
+#EXTINF:-1,DE  3Sat
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2599.ts
+#EXTINF:-1,DE  Sixx
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2601.ts
+#EXTINF:-1,DE ZDF Kultur
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2589.ts
+#EXTINF:-1,DE  ZDF Info
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2590.ts
+#EXTINF:-1,DE Sky Cinema HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2564.ts
+#EXTINF:-1,DE  Sky Cinema +1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2647.ts
+#EXTINF:-1,DE  Cinema +24 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2654.ts
+#EXTINF:-1,DE  Sky Hits
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2627.ts
+#EXTINF:-1,DE  Sky Emotion
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2645.ts
+#EXTINF:-1,DE  Sky Comedy
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2646.ts
+#EXTINF:-1,DE Sky Action HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2566.ts
+#EXTINF:-1,DE  Sky Krimi
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2644.ts
+#EXTINF:-1,DE Sky Atlantic
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2565.ts
+#EXTINF:-1,DE  Sky Nostalgie
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2643.ts
+#EXTINF:-1,DE  AXN Action
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2610.ts
+#EXTINF:-1,DE  Disney XD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2653.ts
+#EXTINF:-1,DE  Disney Channel
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2609.ts
+#EXTINF:-1,DE  Disney Cinemagic
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2630.ts
+#EXTINF:-1,DE  Discovery Channel
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2615.ts
+#EXTINF:-1,DE  13th Street
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2631.ts
+#EXTINF:-1,DE  MGM
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2614.ts
+#EXTINF:-1,DE  1-2-3.TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2611.ts
+#EXTINF:-1,DE Fox Serie
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2623.ts
+#EXTINF:-1,DE DMAX
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2588.ts
+#EXTINF:-1,DE  TNT Serie
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2624.ts
+#EXTINF:-1,DE  TLC
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2600.ts
+#EXTINF:-1,DE  SYFY
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2625.ts
+#EXTINF:-1,DE  Spiegel Geschichte
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2626.ts
+#EXTINF:-1,DE  Romance TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2604.ts
+#EXTINF:-1,DE  National Geographic
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2613.ts
+#EXTINF:-1,DE  Nat Geo Wild
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2628.ts
+#EXTINF:-1,DE  N24
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2606.ts
+#EXTINF:-1,DE  N-TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2597.ts
+#EXTINF:-1,DE  Kinowelt TV
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2607.ts
+#EXTINF:-1,DE  Junior
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2651.ts
+#EXTINF:-1,DE  History HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2652.ts
+#EXTINF:-1,DE  HeimatKanal
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2629.ts
+#EXTINF:-1,DE  Sport News HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2641.ts
+#EXTINF:-1,DE Sky Sport 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2563.ts
+#EXTINF:-1,DE  Sky Sport 2 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2642.ts
+#EXTINF:-1,DE Sky Bundesliga 1 HD
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2562.ts
+#EXTINF:-1,DE  Bundesliga 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2622.ts
+#EXTINF:-1,DE  Bundesliga 3
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2621.ts
+#EXTINF:-1,DE  Sky Bundesliga 4
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2612.ts
+#EXTINF:-1,DE  Bundesliga 5
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2620.ts
+#EXTINF:-1,DE  Bundesliga 6
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2619.ts
+#EXTINF:-1,DE  Bundesliga 7
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2618.ts
+#EXTINF:-1,DE  Bundesliga 8
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2617.ts
+#EXTINF:-1,DE  Bundesliga 9
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2616.ts
+#EXTINF:-1,Selekt 1
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2640.ts
+#EXTINF:-1,Selekt 2
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2639.ts
+#EXTINF:-1,Selekt 3
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2638.ts
+#EXTINF:-1,Selekt 4
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2637.ts
+#EXTINF:-1,Selekt 5
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2636.ts
+#EXTINF:-1,Selekt 6
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2635.ts
+#EXTINF:-1,Selekt 7
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2634.ts
+#EXTINF:-1,Selekt 8
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2633.ts
+#EXTINF:-1,Selekt 9
+http://iptv.controlliamo.com:1980/live/stefano/stefano/2632.ts
