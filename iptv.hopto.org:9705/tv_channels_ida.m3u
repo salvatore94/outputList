@@ -1,0 +1,883 @@
+#EXTM3U
+#EXTINF:-1,==== IPTV Europa Digital ====
+http://iptv.hopto.org:9705/live/Ida/Ida/871.ts
+#EXTINF:-1,Top Channel HD
+http://iptv.hopto.org:9705/live/Ida/Ida/25.ts
+#EXTINF:-1,Klan HD
+http://iptv.hopto.org:9705/live/Ida/Ida/878.ts
+#EXTINF:-1,Top News
+http://iptv.hopto.org:9705/live/Ida/Ida/3.ts
+#EXTINF:-1,Top Channel
+http://iptv.hopto.org:9705/live/Ida/Ida/106.ts
+#EXTINF:-1,Klan
+http://iptv.hopto.org:9705/live/Ida/Ida/107.ts
+#EXTINF:-1,Top Channel B
+http://iptv.hopto.org:9705/live/Ida/Ida/2.ts
+#EXTINF:-1,Klan B
+http://iptv.hopto.org:9705/live/Ida/Ida/4.ts
+#EXTINF:-1,Rtk
+http://iptv.hopto.org:9705/live/Ida/Ida/15.ts
+#EXTINF:-1,RTK B
+http://iptv.hopto.org:9705/live/Ida/Ida/935.ts
+#EXTINF:-1,Ktv
+http://iptv.hopto.org:9705/live/Ida/Ida/48.ts
+#EXTINF:-1,KTV B
+http://iptv.hopto.org:9705/live/Ida/Ida/934.ts
+#EXTINF:-1,21 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/47.ts
+#EXTINF:-1,RTV 21 HD B
+http://iptv.hopto.org:9705/live/Ida/Ida/933.ts
+#EXTINF:-1,Klan Kosova
+http://iptv.hopto.org:9705/live/Ida/Ida/11.ts
+#EXTINF:-1,Klan Kosova B
+http://iptv.hopto.org:9705/live/Ida/Ida/932.ts
+#EXTINF:-1,RTK 2
+http://iptv.hopto.org:9705/live/Ida/Ida/913.ts
+#EXTINF:-1,Rtk 3
+http://iptv.hopto.org:9705/live/Ida/Ida/820.ts
+#EXTINF:-1,Rtk 4
+http://iptv.hopto.org:9705/live/Ida/Ida/700.ts
+#EXTINF:-1,Vizion Plus
+http://iptv.hopto.org:9705/live/Ida/Ida/10.ts
+#EXTINF:-1,News 24
+http://iptv.hopto.org:9705/live/Ida/Ida/5.ts
+#EXTINF:-1,Ora News HD
+http://iptv.hopto.org:9705/live/Ida/Ida/728.ts
+#EXTINF:-1,A1 Report
+http://iptv.hopto.org:9705/live/Ida/Ida/927.ts
+#EXTINF:-1,Abc News
+http://iptv.hopto.org:9705/live/Ida/Ida/6.ts
+#EXTINF:-1,Channel One
+http://iptv.hopto.org:9705/live/Ida/Ida/40.ts
+#EXTINF:-1,Tvsh
+http://iptv.hopto.org:9705/live/Ida/Ida/108.ts
+#EXTINF:-1,Rtsh Muzike
+http://iptv.hopto.org:9705/live/Ida/Ida/856.ts
+#EXTINF:-1,Rtsh Sport
+http://iptv.hopto.org:9705/live/Ida/Ida/880.ts
+#EXTINF:-1,Tema Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/928.ts
+#EXTINF:-1,Tv Dukagjini
+http://iptv.hopto.org:9705/live/Ida/Ida/926.ts
+#EXTINF:-1,ARTA TV
+http://iptv.hopto.org:9705/live/Ida/Ida/912.ts
+#EXTINF:-1,21 Plus
+http://iptv.hopto.org:9705/live/Ida/Ida/725.ts
+#EXTINF:-1,Zjarr Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/812.ts
+#EXTINF:-1,21 HD Popullore
+http://iptv.hopto.org:9705/live/Ida/Ida/49.ts
+#EXTINF:-1,TRIBUNA CHANNEL
+http://iptv.hopto.org:9705/live/Ida/Ida/924.ts
+#EXTINF:-1,Rrokum HD
+http://iptv.hopto.org:9705/live/Ida/Ida/717.ts
+#EXTINF:-1,Kombi
+http://iptv.hopto.org:9705/live/Ida/Ida/857.ts
+#EXTINF:-1,CLICK TV
+http://iptv.hopto.org:9705/live/Ida/Ida/930.ts
+#EXTINF:-1,Star Plus Shkoder
+http://iptv.hopto.org:9705/live/Ida/Ida/181.ts
+#EXTINF:-1,Sot 7 TV
+http://iptv.hopto.org:9705/live/Ida/Ida/837.ts
+#EXTINF:-1,Jug Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/238.ts
+#EXTINF:-1,Albanian TV of America
+http://iptv.hopto.org:9705/live/Ida/Ida/41.ts
+#EXTINF:-1,Music 3 Plus
+http://iptv.hopto.org:9705/live/Ida/Ida/175.ts
+#EXTINF:-1,First Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/936.ts
+#EXTINF:-1,Alsat M-B
+http://iptv.hopto.org:9705/live/Ida/Ida/985.ts
+#EXTINF:-1,Alsat M
+http://iptv.hopto.org:9705/live/Ida/Ida/39.ts
+#EXTINF:-1,Globi
+http://iptv.hopto.org:9705/live/Ida/Ida/922.ts
+#EXTINF:-1,MKTV2
+http://iptv.hopto.org:9705/live/Ida/Ida/94.ts
+#EXTINF:-1,Era tv
+http://iptv.hopto.org:9705/live/Ida/Ida/9.ts
+#EXTINF:-1,Tv Plus.
+http://iptv.hopto.org:9705/live/Ida/Ida/937.ts
+#EXTINF:-1,Tv Tetova
+http://iptv.hopto.org:9705/live/Ida/Ida/768.ts
+#EXTINF:-1,Top Channel EST USA
+http://iptv.hopto.org:9705/live/Ida/Ida/873.ts
+#EXTINF:-1,KLAN EST USA
+http://iptv.hopto.org:9705/live/Ida/Ida/876.ts
+#EXTINF:-1,Vizion+ EST USA
+http://iptv.hopto.org:9705/live/Ida/Ida/879.ts
+#EXTINF:-1,Alsat M EST USA
+http://iptv.hopto.org:9705/live/Ida/Ida/877.ts
+#EXTINF:-1,Alb Humor
+http://iptv.hopto.org:9705/live/Ida/Ida/938.ts
+#EXTINF:-1,Peace Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/860.ts
+#EXTINF:-1,Bang Bang
+http://iptv.hopto.org:9705/live/Ida/Ida/12.ts
+#EXTINF:-1,Cufo
+http://iptv.hopto.org:9705/live/Ida/Ida/13.ts
+#EXTINF:-1,Junior
+http://iptv.hopto.org:9705/live/Ida/Ida/14.ts
+#EXTINF:-1,Baby Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/783.ts
+#EXTINF:-1,Disney Channel
+http://iptv.hopto.org:9705/live/Ida/Ida/853.ts
+#EXTINF:-1,Explorer Shkence
+http://iptv.hopto.org:9705/live/Ida/Ida/16.ts
+#EXTINF:-1,Explorer History
+http://iptv.hopto.org:9705/live/Ida/Ida/17.ts
+#EXTINF:-1,Explorer Natyre
+http://iptv.hopto.org:9705/live/Ida/Ida/18.ts
+#EXTINF:-1,Dasma Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/811.ts
+#EXTINF:-1,24 Kitchen
+http://iptv.hopto.org:9705/live/Ida/Ida/906.ts
+#EXTINF:-1,Arkiva Dokumentar
+http://iptv.hopto.org:9705/live/Ida/Ida/984.ts
+#EXTINF:-1,City Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/715.ts
+#EXTINF:-1,Mad Albania
+http://iptv.hopto.org:9705/live/Ida/Ida/8.ts
+#EXTINF:-1,Alb Tv Hits
+http://iptv.hopto.org:9705/live/Ida/Ida/923.ts
+#EXTINF:-1,Ballkanika
+http://iptv.hopto.org:9705/live/Ida/Ida/827.ts
+#EXTINF:-1,Supersonic Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/24.ts
+#EXTINF:-1,BBF
+http://iptv.hopto.org:9705/live/Ida/Ida/28.ts
+#EXTINF:-1,Folk Plus
+http://iptv.hopto.org:9705/live/Ida/Ida/212.ts
+#EXTINF:-1,Super Folk
+http://iptv.hopto.org:9705/live/Ida/Ida/38.ts
+#EXTINF:-1,Elrodi
+http://iptv.hopto.org:9705/live/Ida/Ida/43.ts
+#EXTINF:-1,Tirana Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/37.ts
+#EXTINF:-1,Folklorit
+http://iptv.hopto.org:9705/live/Ida/Ida/156.ts
+#EXTINF:-1,Music Al
+http://iptv.hopto.org:9705/live/Ida/Ida/863.ts
+#EXTINF:-1,My Music
+http://iptv.hopto.org:9705/live/Ida/Ida/27.ts
+#EXTINF:-1,WORLD FASHION TV
+http://iptv.hopto.org:9705/live/Ida/Ida/939.ts
+#EXTINF:-1,Fox Life
+http://iptv.hopto.org:9705/live/Ida/Ida/168.ts
+#EXTINF:-1,Fox Crime
+http://iptv.hopto.org:9705/live/Ida/Ida/32.ts
+#EXTINF:-1,Egnatia tv EL
+http://iptv.hopto.org:9705/live/Ida/Ida/7.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://iptv.hopto.org:9705/live/Ida/Ida/983.ts
+#EXTINF:-1,T+ HD
+http://iptv.hopto.org:9705/live/Ida/Ida/20.ts
+#EXTINF:-1,Plus HD
+http://iptv.hopto.org:9705/live/Ida/Ida/770.ts
+#EXTINF:-1,Film Nje HD
+http://iptv.hopto.org:9705/live/Ida/Ida/23.ts
+#EXTINF:-1,Film Dy HD
+http://iptv.hopto.org:9705/live/Ida/Ida/31.ts
+#EXTINF:-1,Kino Premiere 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/767.ts
+#EXTINF:-1,Kino Premiere 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/925.ts
+#EXTINF:-1,Film GOLD 2
+http://iptv.hopto.org:9705/live/Ida/Ida/231.ts
+#EXTINF:-1,Film GOLD 3
+http://iptv.hopto.org:9705/live/Ida/Ida/766.ts
+#EXTINF:-1,Film GOLD 4
+http://iptv.hopto.org:9705/live/Ida/Ida/727.ts
+#EXTINF:-1,Stinet
+http://iptv.hopto.org:9705/live/Ida/Ida/19.ts
+#EXTINF:-1,Film Autor
+http://iptv.hopto.org:9705/live/Ida/Ida/192.ts
+#EXTINF:-1,Film Hits
+http://iptv.hopto.org:9705/live/Ida/Ida/42.ts
+#EXTINF:-1,Film Hits 1
+http://iptv.hopto.org:9705/live/Ida/Ida/74.ts
+#EXTINF:-1,Film Triller
+http://iptv.hopto.org:9705/live/Ida/Ida/45.ts
+#EXTINF:-1,Film Drame
+http://iptv.hopto.org:9705/live/Ida/Ida/46.ts
+#EXTINF:-1,Film Aksion
+http://iptv.hopto.org:9705/live/Ida/Ida/21.ts
+#EXTINF:-1,Film Komedi
+http://iptv.hopto.org:9705/live/Ida/Ida/22.ts
+#EXTINF:-1,Supersport 1
+http://iptv.hopto.org:9705/live/Ida/Ida/29.ts
+#EXTINF:-1,Supersport 2
+http://iptv.hopto.org:9705/live/Ida/Ida/30.ts
+#EXTINF:-1,Supersport 3
+http://iptv.hopto.org:9705/live/Ida/Ida/34.ts
+#EXTINF:-1,Supersport  4
+http://iptv.hopto.org:9705/live/Ida/Ida/33.ts
+#EXTINF:-1,SuperSport 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/153.ts
+#EXTINF:-1,SuperSport 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/154.ts
+#EXTINF:-1,Supersport 3 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/720.ts
+#EXTINF:-1,SuperSport 4 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/722.ts
+#EXTINF:-1,SuperSport 5 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/861.ts
+#EXTINF:-1,SuperSport 6 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/862.ts
+#EXTINF:-1,Supersport Kosova 1
+http://iptv.hopto.org:9705/live/Ida/Ida/35.ts
+#EXTINF:-1,Supersport Kosova 2
+http://iptv.hopto.org:9705/live/Ida/Ida/36.ts
+#EXTINF:-1,Digi Gold
+http://iptv.hopto.org:9705/live/Ida/Ida/191.ts
+#EXTINF:-1,Joly HD
+http://iptv.hopto.org:9705/live/Ida/Ida/169.ts
+#EXTINF:-1,Linving HD
+http://iptv.hopto.org:9705/live/Ida/Ida/732.ts
+#EXTINF:-1,3 Plus
+http://iptv.hopto.org:9705/live/Ida/Ida/173.ts
+#EXTINF:-1,Smile
+http://iptv.hopto.org:9705/live/Ida/Ida/752.ts
+#EXTINF:-1,Muse
+http://iptv.hopto.org:9705/live/Ida/Ida/911.ts
+#EXTINF:-1,Tring Tring
+http://iptv.hopto.org:9705/live/Ida/Ida/53.ts
+#EXTINF:-1,SOFIA
+http://iptv.hopto.org:9705/live/Ida/Ida/929.ts
+#EXTINF:-1,Tiptv
+http://iptv.hopto.org:9705/live/Ida/Ida/65.ts
+#EXTINF:-1,Tring World
+http://iptv.hopto.org:9705/live/Ida/Ida/772.ts
+#EXTINF:-1,Tring History
+http://iptv.hopto.org:9705/live/Ida/Ida/56.ts
+#EXTINF:-1,Tring Planet
+http://iptv.hopto.org:9705/live/Ida/Ida/52.ts
+#EXTINF:-1,Tring Fantasy
+http://iptv.hopto.org:9705/live/Ida/Ida/721.ts
+#EXTINF:-1,Tring Life
+http://iptv.hopto.org:9705/live/Ida/Ida/713.ts
+#EXTINF:-1,Tring Super
+http://iptv.hopto.org:9705/live/Ida/Ida/716.ts
+#EXTINF:-1,Tring Max
+http://iptv.hopto.org:9705/live/Ida/Ida/50.ts
+#EXTINF:-1,Tring Shqip
+http://iptv.hopto.org:9705/live/Ida/Ida/55.ts
+#EXTINF:-1,Tring Comedy
+http://iptv.hopto.org:9705/live/Ida/Ida/51.ts
+#EXTINF:-1,Tring Sport News
+http://iptv.hopto.org:9705/live/Ida/Ida/232.ts
+#EXTINF:-1,Tring Sport 1
+http://iptv.hopto.org:9705/live/Ida/Ida/714.ts
+#EXTINF:-1,Tring Sport 2
+http://iptv.hopto.org:9705/live/Ida/Ida/769.ts
+#EXTINF:-1,Tring Sport 3
+http://iptv.hopto.org:9705/live/Ida/Ida/54.ts
+#EXTINF:-1,Tring Sport 4
+http://iptv.hopto.org:9705/live/Ida/Ida/814.ts
+#EXTINF:-1,====Kanale nga Ballkani=====
+http://iptv.hopto.org:9705/live/Ida/Ida/869.ts
+#EXTINF:-1,EuroNews
+http://iptv.hopto.org:9705/live/Ida/Ida/226.ts
+#EXTINF:-1,MRTV 1
+http://iptv.hopto.org:9705/live/Ida/Ida/93.ts
+#EXTINF:-1,24 Vesti
+http://iptv.hopto.org:9705/live/Ida/Ida/914.ts
+#EXTINF:-1,Sitel
+http://iptv.hopto.org:9705/live/Ida/Ida/91.ts
+#EXTINF:-1,SITEL 3
+http://iptv.hopto.org:9705/live/Ida/Ida/908.ts
+#EXTINF:-1,Telma
+http://iptv.hopto.org:9705/live/Ida/Ida/90.ts
+#EXTINF:-1,Alfa MK
+http://iptv.hopto.org:9705/live/Ida/Ida/800.ts
+#EXTINF:-1,KANAL 5
+http://iptv.hopto.org:9705/live/Ida/Ida/92.ts
+#EXTINF:-1,MK: Kanal 5+
+http://iptv.hopto.org:9705/live/Ida/Ida/712.ts
+#EXTINF:-1,Shutel Mk
+http://iptv.hopto.org:9705/live/Ida/Ida/817.ts
+#EXTINF:-1,Shenja Tv
+http://iptv.hopto.org:9705/live/Ida/Ida/904.ts
+#EXTINF:-1,TV Kanal 21
+http://iptv.hopto.org:9705/live/Ida/Ida/982.ts
+#EXTINF:-1,Ohrid
+http://iptv.hopto.org:9705/live/Ida/Ida/903.ts
+#EXTINF:-1,Mega Bitola
+http://iptv.hopto.org:9705/live/Ida/Ida/875.ts
+#EXTINF:-1,K1 Veles
+http://iptv.hopto.org:9705/live/Ida/Ida/905.ts
+#EXTINF:-1,K Plus Stip
+http://iptv.hopto.org:9705/live/Ida/Ida/742.ts
+#EXTINF:-1,A1 Strumica
+http://iptv.hopto.org:9705/live/Ida/Ida/891.ts
+#EXTINF:-1,Dm Sat
+http://iptv.hopto.org:9705/live/Ida/Ida/699.ts
+#EXTINF:-1,Nova TV
+http://iptv.hopto.org:9705/live/Ida/Ida/100.ts
+#EXTINF:-1,PRVA
+http://iptv.hopto.org:9705/live/Ida/Ida/230.ts
+#EXTINF:-1,OBN
+http://iptv.hopto.org:9705/live/Ida/Ida/99.ts
+#EXTINF:-1,HRT
+http://iptv.hopto.org:9705/live/Ida/Ida/97.ts
+#EXTINF:-1,HRT 2
+http://iptv.hopto.org:9705/live/Ida/Ida/98.ts
+#EXTINF:-1,RTS 1
+http://iptv.hopto.org:9705/live/Ida/Ida/150.ts
+#EXTINF:-1,Rts 2
+http://iptv.hopto.org:9705/live/Ida/Ida/765.ts
+#EXTINF:-1,BN
+http://iptv.hopto.org:9705/live/Ida/Ida/178.ts
+#EXTINF:-1,B92
+http://iptv.hopto.org:9705/live/Ida/Ida/151.ts
+#EXTINF:-1,Doma
+http://iptv.hopto.org:9705/live/Ida/Ida/779.ts
+#EXTINF:-1,NR 1 Serb
+http://iptv.hopto.org:9705/live/Ida/Ida/761.ts
+#EXTINF:-1,PINK
+http://iptv.hopto.org:9705/live/Ida/Ida/85.ts
+#EXTINF:-1,Pink 2
+http://iptv.hopto.org:9705/live/Ida/Ida/867.ts
+#EXTINF:-1,Pink 3
+http://iptv.hopto.org:9705/live/Ida/Ida/764.ts
+#EXTINF:-1,Pink Premium
+http://iptv.hopto.org:9705/live/Ida/Ida/868.ts
+#EXTINF:-1,PINK CRIME&MYSTERY
+http://iptv.hopto.org:9705/live/Ida/Ida/730.ts
+#EXTINF:-1,Pink Plus
+http://iptv.hopto.org:9705/live/Ida/Ida/756.ts
+#EXTINF:-1,Pink Extra
+http://iptv.hopto.org:9705/live/Ida/Ida/763.ts
+#EXTINF:-1,Pink Film
+http://iptv.hopto.org:9705/live/Ida/Ida/176.ts
+#EXTINF:-1,Pink BH
+http://iptv.hopto.org:9705/live/Ida/Ida/115.ts
+#EXTINF:-1,PInk Horror
+http://iptv.hopto.org:9705/live/Ida/Ida/762.ts
+#EXTINF:-1,PINK THRILLER
+http://iptv.hopto.org:9705/live/Ida/Ida/758.ts
+#EXTINF:-1,PINK ACTION
+http://iptv.hopto.org:9705/live/Ida/Ida/86.ts
+#EXTINF:-1,Pink Comedy
+http://iptv.hopto.org:9705/live/Ida/Ida/726.ts
+#EXTINF:-1,Pink Romance
+http://iptv.hopto.org:9705/live/Ida/Ida/866.ts
+#EXTINF:-1,Pink Kids
+http://iptv.hopto.org:9705/live/Ida/Ida/224.ts
+#EXTINF:-1,PINK FOLK 1
+http://iptv.hopto.org:9705/live/Ida/Ida/87.ts
+#EXTINF:-1,HAYAT FOLK
+http://iptv.hopto.org:9705/live/Ida/Ida/229.ts
+#EXTINF:-1,BN MUSIC
+http://iptv.hopto.org:9705/live/Ida/Ida/760.ts
+#EXTINF:-1,Cinemax
+http://iptv.hopto.org:9705/live/Ida/Ida/834.ts
+#EXTINF:-1,Cinestar 2
+http://iptv.hopto.org:9705/live/Ida/Ida/833.ts
+#EXTINF:-1,Cinestar Premiere
+http://iptv.hopto.org:9705/live/Ida/Ida/832.ts
+#EXTINF:-1,HBO Comedy
+http://iptv.hopto.org:9705/live/Ida/Ida/831.ts
+#EXTINF:-1,HBO Adria
+http://iptv.hopto.org:9705/live/Ida/Ida/830.ts
+#EXTINF:-1,Sport Klub 1
+http://iptv.hopto.org:9705/live/Ida/Ida/101.ts
+#EXTINF:-1,Sport Klub 2
+http://iptv.hopto.org:9705/live/Ida/Ida/102.ts
+#EXTINF:-1,Sport Klub 3
+http://iptv.hopto.org:9705/live/Ida/Ida/103.ts
+#EXTINF:-1,Arena Sport 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/62.ts
+#EXTINF:-1,Arena Sport 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/63.ts
+#EXTINF:-1,Arena Sport 3 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/171.ts
+#EXTINF:-1,Arena Sport 4 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/64.ts
+#EXTINF:-1,Arena Sport 5 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/816.ts
+#EXTINF:-1,Discovery World BK
+http://iptv.hopto.org:9705/live/Ida/Ida/757.ts
+#EXTINF:-1,EX-YU: Animal Planet
+http://iptv.hopto.org:9705/live/Ida/Ida/201.ts
+#EXTINF:-1,====KANALE ITALY=====
+http://iptv.hopto.org:9705/live/Ida/Ida/870.ts
+#EXTINF:-1,Rai 1 .HD
+http://iptv.hopto.org:9705/live/Ida/Ida/118.ts
+#EXTINF:-1,Rai 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/117.ts
+#EXTINF:-1,Rai 3 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/120.ts
+#EXTINF:-1,Rai  4
+http://iptv.hopto.org:9705/live/Ida/Ida/887.ts
+#EXTINF:-1,Rai 5
+http://iptv.hopto.org:9705/live/Ida/Ida/197.ts
+#EXTINF:-1,Rai Premium
+http://iptv.hopto.org:9705/live/Ida/Ida/890.ts
+#EXTINF:-1,Rai Movie
+http://iptv.hopto.org:9705/live/Ida/Ida/889.ts
+#EXTINF:-1,IT: La 5
+http://iptv.hopto.org:9705/live/Ida/Ida/803.ts
+#EXTINF:-1,IT: Real Time
+http://iptv.hopto.org:9705/live/Ida/Ida/802.ts
+#EXTINF:-1,Sky Tg 24
+http://iptv.hopto.org:9705/live/Ida/Ida/204.ts
+#EXTINF:-1,Italia 1
+http://iptv.hopto.org:9705/live/Ida/Ida/122.ts
+#EXTINF:-1,Italia 2
+http://iptv.hopto.org:9705/live/Ida/Ida/141.ts
+#EXTINF:-1,Rete 4
+http://iptv.hopto.org:9705/live/Ida/Ida/123.ts
+#EXTINF:-1,Canale 5
+http://iptv.hopto.org:9705/live/Ida/Ida/121.ts
+#EXTINF:-1,Celio
+http://iptv.hopto.org:9705/live/Ida/Ida/184.ts
+#EXTINF:-1,LA7
+http://iptv.hopto.org:9705/live/Ida/Ida/701.ts
+#EXTINF:-1,Sky Uno
+http://iptv.hopto.org:9705/live/Ida/Ida/105.ts
+#EXTINF:-1,Sky Atlantic HD
+http://iptv.hopto.org:9705/live/Ida/Ida/892.ts
+#EXTINF:-1,Mediaset EXTRA
+http://iptv.hopto.org:9705/live/Ida/Ida/142.ts
+#EXTINF:-1,Premium Cinema HD
+http://iptv.hopto.org:9705/live/Ida/Ida/111.ts
+#EXTINF:-1,Premium Cinema 2
+http://iptv.hopto.org:9705/live/Ida/Ida/189.ts
+#EXTINF:-1,Premium Studio Universal
+http://iptv.hopto.org:9705/live/Ida/Ida/884.ts
+#EXTINF:-1,Premium Joy
+http://iptv.hopto.org:9705/live/Ida/Ida/188.ts
+#EXTINF:-1,Premium Stories
+http://iptv.hopto.org:9705/live/Ida/Ida/110.ts
+#EXTINF:-1,Premium Energy
+http://iptv.hopto.org:9705/live/Ida/Ida/109.ts
+#EXTINF:-1,Premium Crime
+http://iptv.hopto.org:9705/live/Ida/Ida/104.ts
+#EXTINF:-1,Premium Emotion
+http://iptv.hopto.org:9705/live/Ida/Ida/44.ts
+#EXTINF:-1,Premium Action
+http://iptv.hopto.org:9705/live/Ida/Ida/112.ts
+#EXTINF:-1,PREMIUM COMEDY
+http://iptv.hopto.org:9705/live/Ida/Ida/172.ts
+#EXTINF:-1,Sky Disney XD
+http://iptv.hopto.org:9705/live/Ida/Ida/916.ts
+#EXTINF:-1,Sky Disney Junior
+http://iptv.hopto.org:9705/live/Ida/Ida/810.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.hopto.org:9705/live/Ida/Ida/134.ts
+#EXTINF:-1,Rai YoYo
+http://iptv.hopto.org:9705/live/Ida/Ida/881.ts
+#EXTINF:-1,Supertennis HD
+http://iptv.hopto.org:9705/live/Ida/Ida/885.ts
+#EXTINF:-1,Premium FoxSport
+http://iptv.hopto.org:9705/live/Ida/Ida/828.ts
+#EXTINF:-1,Premium Sport
+http://iptv.hopto.org:9705/live/Ida/Ida/213.ts
+#EXTINF:-1,Rai Sport 1
+http://iptv.hopto.org:9705/live/Ida/Ida/888.ts
+#EXTINF:-1,Premium Calcio
+http://iptv.hopto.org:9705/live/Ida/Ida/113.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/205.ts
+#EXTINF:-1,Premium Calcio 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/210.ts
+#EXTINF:-1,Premium Calcio 3
+http://iptv.hopto.org:9705/live/Ida/Ida/755.ts
+#EXTINF:-1,Premium Calcio 4
+http://iptv.hopto.org:9705/live/Ida/Ida/754.ts
+#EXTINF:-1,Premium Calcio 5
+http://iptv.hopto.org:9705/live/Ida/Ida/753.ts
+#EXTINF:-1,Premium Calcio 6
+http://iptv.hopto.org:9705/live/Ida/Ida/915.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/114.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.hopto.org:9705/live/Ida/Ida/116.ts
+#EXTINF:-1,Sky Cinema HIts
+http://iptv.hopto.org:9705/live/Ida/Ida/132.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://iptv.hopto.org:9705/live/Ida/Ida/128.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://iptv.hopto.org:9705/live/Ida/Ida/163.ts
+#EXTINF:-1,Cinema Passion HD
+http://iptv.hopto.org:9705/live/Ida/Ida/164.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://iptv.hopto.org:9705/live/Ida/Ida/931.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://iptv.hopto.org:9705/live/Ida/Ida/146.ts
+#EXTINF:-1,SKY Discovery World
+http://iptv.hopto.org:9705/live/Ida/Ida/127.ts
+#EXTINF:-1,Sky History HD
+http://iptv.hopto.org:9705/live/Ida/Ida/221.ts
+#EXTINF:-1,SKY ANIMAL PLANET
+http://iptv.hopto.org:9705/live/Ida/Ida/208.ts
+#EXTINF:-1,NationalGeo HD
+http://iptv.hopto.org:9705/live/Ida/Ida/223.ts
+#EXTINF:-1,Caccia & Pesca
+http://iptv.hopto.org:9705/live/Ida/Ida/81.ts
+#EXTINF:-1,Radio 105 TV
+http://iptv.hopto.org:9705/live/Ida/Ida/124.ts
+#EXTINF:-1,Euro Sport
+http://iptv.hopto.org:9705/live/Ida/Ida/155.ts
+#EXTINF:-1,Sky Moto GP
+http://iptv.hopto.org:9705/live/Ida/Ida/129.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/157.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/125.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/126.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://iptv.hopto.org:9705/live/Ida/Ida/180.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/195.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/219.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/220.ts
+#EXTINF:-1,PrimaFila 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/72.ts
+#EXTINF:-1,PrimaFila 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/199.ts
+#EXTINF:-1,PrimaFila 3 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/190.ts
+#EXTINF:-1,PrimaFila 4 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/88.ts
+#EXTINF:-1,Primafila 5 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/73.ts
+#EXTINF:-1,Primafila 6 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/215.ts
+#EXTINF:-1,Primafila 7 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/216.ts
+#EXTINF:-1,Primafila 8 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/217.ts
+#EXTINF:-1,Primafila 9 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/214.ts
+#EXTINF:-1,Primafila 10 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/207.ts
+#EXTINF:-1,TSN Sport 1
+http://iptv.hopto.org:9705/live/Ida/Ida/808.ts
+#EXTINF:-1,TSN Sport 2
+http://iptv.hopto.org:9705/live/Ida/Ida/807.ts
+#EXTINF:-1,US: TSN Sport 3
+http://iptv.hopto.org:9705/live/Ida/Ida/806.ts
+#EXTINF:-1,US: TSN Sport 4
+http://iptv.hopto.org:9705/live/Ida/Ida/805.ts
+#EXTINF:-1,US: TSN Sport 5
+http://iptv.hopto.org:9705/live/Ida/Ida/804.ts
+#EXTINF:-1,Canal+ Cinema
+http://iptv.hopto.org:9705/live/Ida/Ida/759.ts
+#EXTINF:-1,VIASAT NATURE
+http://iptv.hopto.org:9705/live/Ida/Ida/162.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://iptv.hopto.org:9705/live/Ida/Ida/886.ts
+#EXTINF:-1,====KANALE ENGLISH=====
+http://iptv.hopto.org:9705/live/Ida/Ida/872.ts
+#EXTINF:-1,Best music
+http://iptv.hopto.org:9705/live/Ida/Ida/89.ts
+#EXTINF:-1,Eaka rock music
+http://iptv.hopto.org:9705/live/Ida/Ida/227.ts
+#EXTINF:-1,Eska Party Music
+http://iptv.hopto.org:9705/live/Ida/Ida/206.ts
+#EXTINF:-1,Sky UK Premiere
+http://iptv.hopto.org:9705/live/Ida/Ida/166.ts
+#EXTINF:-1,UK - SKY THRILLER
+http://iptv.hopto.org:9705/live/Ida/Ida/158.ts
+#EXTINF:-1,Sky Family HD UK
+http://iptv.hopto.org:9705/live/Ida/Ida/160.ts
+#EXTINF:-1,UK: Sky Sci-Fi
+http://iptv.hopto.org:9705/live/Ida/Ida/703.ts
+#EXTINF:-1,UK: Sky Drama
+http://iptv.hopto.org:9705/live/Ida/Ida/145.ts
+#EXTINF:-1,Sky Movies Action  (UK)
+http://iptv.hopto.org:9705/live/Ida/Ida/159.ts
+#EXTINF:-1,Sky UK Comedy
+http://iptv.hopto.org:9705/live/Ida/Ida/165.ts
+#EXTINF:-1,BBC One UK
+http://iptv.hopto.org:9705/live/Ida/Ida/211.ts
+#EXTINF:-1,RTE 1 UK
+http://iptv.hopto.org:9705/live/Ida/Ida/66.ts
+#EXTINF:-1,UK: RTE 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/147.ts
+#EXTINF:-1,UK: ITV 1
+http://iptv.hopto.org:9705/live/Ida/Ida/694.ts
+#EXTINF:-1,ITV 2
+http://iptv.hopto.org:9705/live/Ida/Ida/695.ts
+#EXTINF:-1,ITV 3
+http://iptv.hopto.org:9705/live/Ida/Ida/696.ts
+#EXTINF:-1,ITV 4
+http://iptv.hopto.org:9705/live/Ida/Ida/697.ts
+#EXTINF:-1,Nat Geo Wild
+http://iptv.hopto.org:9705/live/Ida/Ida/706.ts
+#EXTINF:-1,Discovery UK
+http://iptv.hopto.org:9705/live/Ida/Ida/705.ts
+#EXTINF:-1,UK: Discovery Science 1
+http://iptv.hopto.org:9705/live/Ida/Ida/709.ts
+#EXTINF:-1,BOXNATION HD
+http://iptv.hopto.org:9705/live/Ida/Ida/225.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://iptv.hopto.org:9705/live/Ida/Ida/698.ts
+#EXTINF:-1,Sky SPORTS F1 (UK)
+http://iptv.hopto.org:9705/live/Ida/Ida/68.ts
+#EXTINF:-1,SkyUK: BT Sport 1
+http://iptv.hopto.org:9705/live/Ida/Ida/130.ts
+#EXTINF:-1,SKY UK: BT SPORT 2
+http://iptv.hopto.org:9705/live/Ida/Ida/131.ts
+#EXTINF:-1,SKY Sport 1 HD (uk)
+http://iptv.hopto.org:9705/live/Ida/Ida/57.ts
+#EXTINF:-1,SKY Sport 2 HD (uk)
+http://iptv.hopto.org:9705/live/Ida/Ida/58.ts
+#EXTINF:-1,SKY Sport 3 HD (uk)
+http://iptv.hopto.org:9705/live/Ida/Ida/59.ts
+#EXTINF:-1,SKY Sport 4 HD (uk)
+http://iptv.hopto.org:9705/live/Ida/Ida/60.ts
+#EXTINF:-1,SKY Sport 5 HD (uk)
+http://iptv.hopto.org:9705/live/Ida/Ida/61.ts
+#EXTINF:-1,=====KANALE GJERMANE=====
+http://iptv.hopto.org:9705/live/Ida/Ida/910.ts
+#EXTINF:-1,RTL Deutschland
+http://iptv.hopto.org:9705/live/Ida/Ida/170.ts
+#EXTINF:-1,RTL II Deutschland
+http://iptv.hopto.org:9705/live/Ida/Ida/136.ts
+#EXTINF:-1,Super RTL
+http://iptv.hopto.org:9705/live/Ida/Ida/203.ts
+#EXTINF:-1,ZDF
+http://iptv.hopto.org:9705/live/Ida/Ida/95.ts
+#EXTINF:-1,ProSieben
+http://iptv.hopto.org:9705/live/Ida/Ida/202.ts
+#EXTINF:-1,ARD
+http://iptv.hopto.org:9705/live/Ida/Ida/96.ts
+#EXTINF:-1,VOX DE
+http://iptv.hopto.org:9705/live/Ida/Ida/723.ts
+#EXTINF:-1,PRO 7 DE
+http://iptv.hopto.org:9705/live/Ida/Ida/702.ts
+#EXTINF:-1,ATV 24
+http://iptv.hopto.org:9705/live/Ida/Ida/740.ts
+#EXTINF:-1,ARTE.DE
+http://iptv.hopto.org:9705/live/Ida/Ida/161.ts
+#EXTINF:-1,DE: 3Sat
+http://iptv.hopto.org:9705/live/Ida/Ida/748.ts
+#EXTINF:-1,DE: SRF 2
+http://iptv.hopto.org:9705/live/Ida/Ida/711.ts
+#EXTINF:-1,DE: Kika
+http://iptv.hopto.org:9705/live/Ida/Ida/139.ts
+#EXTINF:-1,DE: Kabel1
+http://iptv.hopto.org:9705/live/Ida/Ida/745.ts
+#EXTINF:-1,SAT 1
+http://iptv.hopto.org:9705/live/Ida/Ida/747.ts
+#EXTINF:-1,Orf 1
+http://iptv.hopto.org:9705/live/Ida/Ida/750.ts
+#EXTINF:-1,Orf 2
+http://iptv.hopto.org:9705/live/Ida/Ida/749.ts
+#EXTINF:-1,Discovery Investigation
+http://iptv.hopto.org:9705/live/Ida/Ida/710.ts
+#EXTINF:-1,Sky Germany TNT Serie HD
+http://iptv.hopto.org:9705/live/Ida/Ida/140.ts
+#EXTINF:-1,DE Sky Cinema HD
+http://iptv.hopto.org:9705/live/Ida/Ida/177.ts
+#EXTINF:-1,Sky De Krimi
+http://iptv.hopto.org:9705/live/Ida/Ida/148.ts
+#EXTINF:-1,DE: Sky  Atlantic
+http://iptv.hopto.org:9705/live/Ida/Ida/138.ts
+#EXTINF:-1,SKY DE EMOTION
+http://iptv.hopto.org:9705/live/Ida/Ida/218.ts
+#EXTINF:-1,Sky Hits DE
+http://iptv.hopto.org:9705/live/Ida/Ida/782.ts
+#EXTINF:-1,SKY ACTION DE
+http://iptv.hopto.org:9705/live/Ida/Ida/135.ts
+#EXTINF:-1,SKY COMEDY DE
+http://iptv.hopto.org:9705/live/Ida/Ida/813.ts
+#EXTINF:-1,SKY Bundesliga
+http://iptv.hopto.org:9705/live/Ida/Ida/71.ts
+#EXTINF:-1,SKY Sport 1 HD (de)
+http://iptv.hopto.org:9705/live/Ida/Ida/75.ts
+#EXTINF:-1,SKY Sport 2 HD (de)
+http://iptv.hopto.org:9705/live/Ida/Ida/76.ts
+#EXTINF:-1,DE: History
+http://iptv.hopto.org:9705/live/Ida/Ida/167.ts
+#EXTINF:-1,DE Sky Germany 13 Street HD
+http://iptv.hopto.org:9705/live/Ida/Ida/149.ts
+#EXTINF:-1,DE: Sky NatGeo Wild HD
+http://iptv.hopto.org:9705/live/Ida/Ida/731.ts
+#EXTINF:-1,National Geographic Channel Deutschland
+http://iptv.hopto.org:9705/live/Ida/Ida/235.ts
+#EXTINF:-1,DE: Sky Select 1 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/809.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://iptv.hopto.org:9705/live/Ida/Ida/746.ts
+#EXTINF:-1,France O HD
+http://iptv.hopto.org:9705/live/Ida/Ida/69.ts
+#EXTINF:-1,France 2 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/222.ts
+#EXTINF:-1,France 3 HD
+http://iptv.hopto.org:9705/live/Ida/Ida/70.ts
+#EXTINF:-1,M6
+http://iptv.hopto.org:9705/live/Ida/Ida/143.ts
+#EXTINF:-1,TV6 fr
+http://iptv.hopto.org:9705/live/Ida/Ida/234.ts
+#EXTINF:-1,NT1
+http://iptv.hopto.org:9705/live/Ida/Ida/989.ts
+#EXTINF:-1,Canal+ France
+http://iptv.hopto.org:9705/live/Ida/Ida/988.ts
+#EXTINF:-1,Canal+ Family
+http://iptv.hopto.org:9705/live/Ida/Ida/986.ts
+#EXTINF:-1,Canal+ Emotion
+http://iptv.hopto.org:9705/live/Ida/Ida/987.ts
+#EXTINF:-1,Ushuaia
+http://iptv.hopto.org:9705/live/Ida/Ida/133.ts
+#EXTINF:-1,FR: PLANETE  CI  HD
+http://iptv.hopto.org:9705/live/Ida/Ida/865.ts
+#EXTINF:-1,BOOMERANG
+http://iptv.hopto.org:9705/live/Ida/Ida/733.ts
+#EXTINF:-1,Canal Sport FR
+http://iptv.hopto.org:9705/live/Ida/Ida/729.ts
+#EXTINF:-1,Bein Sport  1 HD FR
+http://iptv.hopto.org:9705/live/Ida/Ida/194.ts
+#EXTINF:-1,Bein Sport  2 HD FR
+http://iptv.hopto.org:9705/live/Ida/Ida/193.ts
+#EXTINF:-1,beIN Sports HD 3
+http://iptv.hopto.org:9705/live/Ida/Ida/724.ts
+#EXTINF:-1,beIN Sports HD 4
+http://iptv.hopto.org:9705/live/Ida/Ida/773.ts
+#EXTINF:-1,BEINSPORT MAX 4
+http://iptv.hopto.org:9705/live/Ida/Ida/874.ts
+#EXTINF:-1,Mega
+http://iptv.hopto.org:9705/live/Ida/Ida/137.ts
+#EXTINF:-1,Star (GR)
+http://iptv.hopto.org:9705/live/Ida/Ida/83.ts
+#EXTINF:-1,Alpha (GR)
+http://iptv.hopto.org:9705/live/Ida/Ida/84.ts
+#EXTINF:-1,E ! gr
+http://iptv.hopto.org:9705/live/Ida/Ida/119.ts
+#EXTINF:-1,Nea gr
+http://iptv.hopto.org:9705/live/Ida/Ida/82.ts
+#EXTINF:-1,Ert 2
+http://iptv.hopto.org:9705/live/Ida/Ida/778.ts
+#EXTINF:-1,Ant 1 (GR)
+http://iptv.hopto.org:9705/live/Ida/Ida/152.ts
+#EXTINF:-1,Sky GR
+http://iptv.hopto.org:9705/live/Ida/Ida/777.ts
+#EXTINF:-1,Music Greek
+http://iptv.hopto.org:9705/live/Ida/Ida/836.ts
+#EXTINF:-1,Mad (GR)
+http://iptv.hopto.org:9705/live/Ida/Ida/185.ts
+#EXTINF:-1,ERT 1
+http://iptv.hopto.org:9705/live/Ida/Ida/179.ts
+#EXTINF:-1,TV 100
+http://iptv.hopto.org:9705/live/Ida/Ida/829.ts
+#EXTINF:-1,Lig Tv 1
+http://iptv.hopto.org:9705/live/Ida/Ida/209.ts
+#EXTINF:-1,Lig tv 2
+http://iptv.hopto.org:9705/live/Ida/Ida/79.ts
+#EXTINF:-1,Lig tv 3
+http://iptv.hopto.org:9705/live/Ida/Ida/182.ts
+#EXTINF:-1,ATV
+http://iptv.hopto.org:9705/live/Ida/Ida/815.ts
+#EXTINF:-1,TRT HD
+http://iptv.hopto.org:9705/live/Ida/Ida/186.ts
+#EXTINF:-1,TR: Kral POP
+http://iptv.hopto.org:9705/live/Ida/Ida/801.ts
+#EXTINF:-1,NTV SPORT TR
+http://iptv.hopto.org:9705/live/Ida/Ida/835.ts
+#EXTINF:-1,Kanal D HD Turk
+http://iptv.hopto.org:9705/live/Ida/Ida/187.ts
+#EXTINF:-1,TRT Muzik
+http://iptv.hopto.org:9705/live/Ida/Ida/80.ts
+#EXTINF:-1,Star Tv Turk
+http://iptv.hopto.org:9705/live/Ida/Ida/77.ts
+#EXTINF:-1,Show Tv Turk
+http://iptv.hopto.org:9705/live/Ida/Ida/78.ts
+#EXTINF:-1,GR-LAMPSI TV
+http://iptv.hopto.org:9705/live/Ida/Ida/744.ts
+#EXTINF:-1,MTV Live
+http://iptv.hopto.org:9705/live/Ida/Ida/708.ts
+#EXTINF:-1,Tom Jerry
+http://iptv.hopto.org:9705/movie/Ida/Ida/858.mkv
+#EXTINF:-1,Alvin dhe Ketrushat
+http://iptv.hopto.org:9705/movie/Ida/Ida/944.mkv
+#EXTINF:-1,Hundemadhi
+http://iptv.hopto.org:9705/movie/Ida/Ida/981.mkv
+#EXTINF:-1,After Earth (FILM)
+http://iptv.hopto.org:9705/movie/Ida/Ida/980.mkv
+#EXTINF:-1,Southpaw | 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/955.mkv
+#EXTINF:-1,Sicario | 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/951.mkv
+#EXTINF:-1,Safari ne Delhi
+http://iptv.hopto.org:9705/movie/Ida/Ida/948.mkv
+#EXTINF:-1,xmen origin
+http://iptv.hopto.org:9705/movie/Ida/Ida/978.mkv
+#EXTINF:-1,xmen first class
+http://iptv.hopto.org:9705/movie/Ida/Ida/979.mkv
+#EXTINF:-1,Xmen 3
+http://iptv.hopto.org:9705/movie/Ida/Ida/977.mkv
+#EXTINF:-1,Xmen 2
+http://iptv.hopto.org:9705/movie/Ida/Ida/976.mkv
+#EXTINF:-1,Xmen 1
+http://iptv.hopto.org:9705/movie/Ida/Ida/975.mkv
+#EXTINF:-1,GR Pame stixima
+http://iptv.hopto.org:9705/movie/Ida/Ida/971.mkv
+#EXTINF:-1,Ex Machina-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/973.mkv
+#EXTINF:-1,Danny Collins-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/972.mkv
+#EXTINF:-1,Cobain Montage of Heck-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/974.mkv
+#EXTINF:-1,Mission
+http://iptv.hopto.org:9705/movie/Ida/Ida/953.mkv
+#EXTINF:-1,Jurassic World | 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/954.mkv
+#EXTINF:-1,Hitman
+http://iptv.hopto.org:9705/movie/Ida/Ida/952.mkv
+#EXTINF:-1,Goosebumps | 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/950.mkv
+#EXTINF:-1,Bridge of Spies | 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/949.mkv
+#EXTINF:-1,Unfinished Business-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/962.mkv
+#EXTINF:-1,Tracers-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/963.mkv
+#EXTINF:-1,The Search for Santa Paws | 2010
+http://iptv.hopto.org:9705/movie/Ida/Ida/958.mkv
+#EXTINF:-1,The DUFF-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/965.mkv
+#EXTINF:-1,Survivor-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/961.mkv
+#EXTINF:-1,Mortdecai-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/966.mkv
+#EXTINF:-1,Lazarus Effect-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/964.mkv
+#EXTINF:-1,Kidnapping Mr  Heineken-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/960.mkv
+#EXTINF:-1,James Bond SPECTRUM 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/959.mkv
+#EXTINF:-1,GR Roda tsanta kai kopana 2
+http://iptv.hopto.org:9705/movie/Ida/Ida/970.mkv
+#EXTINF:-1,GR Me xoris ginekes
+http://iptv.hopto.org:9705/movie/Ida/Ida/968.mkv
+#EXTINF:-1,GR Erotas ala Ellinika
+http://iptv.hopto.org:9705/movie/Ida/Ida/969.mkv
+#EXTINF:-1,American Justice-2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/967.mkv
+#EXTINF:-1,Aloha | 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/957.mkv
+#EXTINF:-1,Absolutely Anything | 2015
+http://iptv.hopto.org:9705/movie/Ida/Ida/956.mkv
+#EXTINF:-1,Barbie
+http://iptv.hopto.org:9705/movie/Ida/Ida/946.mkv
+#EXTINF:-1,Epoka e Akullnajave 2012
+http://iptv.hopto.org:9705/movie/Ida/Ida/947.mkv
+#EXTINF:-1,Hot Club
+http://iptv.hopto.org:9705/live/Ida/Ida/883.ts
+#EXTINF:-1,Hustler HD
+http://iptv.hopto.org:9705/live/Ida/Ida/67.ts
+#EXTINF:-1,Private xxx
+http://iptv.hopto.org:9705/live/Ida/Ida/741.ts
+#EXTINF:-1,PASSIE XXX
+http://iptv.hopto.org:9705/live/Ida/Ida/198.ts
+#EXTINF:-1,BRAZERS XXX
+http://iptv.hopto.org:9705/live/Ida/Ida/144.ts
+#EXTINF:-1,XXX: Hot
+http://iptv.hopto.org:9705/live/Ida/Ida/859.ts

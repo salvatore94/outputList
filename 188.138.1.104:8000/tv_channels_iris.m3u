@@ -1,0 +1,719 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://188.138.1.104:8000/live/iris/iris/1.ts
+#EXTINF:-1,RTP 2
+http://188.138.1.104:8000/live/iris/iris/555.ts
+#EXTINF:-1,SIC
+http://188.138.1.104:8000/live/iris/iris/2.ts
+#EXTINF:-1,TVI
+http://188.138.1.104:8000/live/iris/iris/34.ts
+#EXTINF:-1,SIC NOTÍCIAS
+http://188.138.1.104:8000/live/iris/iris/4.ts
+#EXTINF:-1,CMTV
+http://188.138.1.104:8000/live/iris/iris/253.ts
+#EXTINF:-1,TVI24
+http://188.138.1.104:8000/live/iris/iris/340.ts
+#EXTINF:-1,TVI FICÇAO
+http://188.138.1.104:8000/live/iris/iris/594.ts
+#EXTINF:-1,A QUINTA
+http://188.138.1.104:8000/live/iris/iris/502.ts
+#EXTINF:-1,CANAL HISTORIA
+http://188.138.1.104:8000/live/iris/iris/574.ts
+#EXTINF:-1,ODISSEIA
+http://188.138.1.104:8000/live/iris/iris/602.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://188.138.1.104:8000/live/iris/iris/603.ts
+#EXTINF:-1,NATIONAL GEO
+http://188.138.1.104:8000/live/iris/iris/592.ts
+#EXTINF:-1,GLOBO PREMIUM
+http://188.138.1.104:8000/live/iris/iris/552.ts
+#EXTINF:-1,CAÇA E PESCA
+http://188.138.1.104:8000/live/iris/iris/563.ts
+#EXTINF:-1,CACAVISION
+http://188.138.1.104:8000/live/iris/iris/558.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://188.138.1.104:8000/live/iris/iris/127.ts
+#EXTINF:-1,CANAL PANDA
+http://188.138.1.104:8000/live/iris/iris/548.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://188.138.1.104:8000/live/iris/iris/559.ts
+#EXTINF:-1,A BOLA TV
+http://188.138.1.104:8000/live/iris/iris/585.ts
+#EXTINF:-1,BENFICA TV 1 HD
+http://188.138.1.104:8000/live/iris/iris/15.ts
+#EXTINF:-1,BENFICA TV 1
+http://188.138.1.104:8000/live/iris/iris/713.ts
+#EXTINF:-1,BENFICA TV 2
+http://188.138.1.104:8000/live/iris/iris/16.ts
+#EXTINF:-1,SPORTING TV
+http://188.138.1.104:8000/live/iris/iris/557.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://188.138.1.104:8000/live/iris/iris/207.ts
+#EXTINF:-1,SPORTTV1
+http://188.138.1.104:8000/live/iris/iris/288.ts
+#EXTINF:-1,SPORTTV2
+http://188.138.1.104:8000/live/iris/iris/607.ts
+#EXTINF:-1,SPORTTV3
+http://188.138.1.104:8000/live/iris/iris/608.ts
+#EXTINF:-1,SPORTTV4
+http://188.138.1.104:8000/live/iris/iris/294.ts
+#EXTINF:-1,SPORTTV5
+http://188.138.1.104:8000/live/iris/iris/338.ts
+#EXTINF:-1,TVC1
+http://188.138.1.104:8000/live/iris/iris/9.ts
+#EXTINF:-1,TVC2
+http://188.138.1.104:8000/live/iris/iris/10.ts
+#EXTINF:-1,TVC3
+http://188.138.1.104:8000/live/iris/iris/11.ts
+#EXTINF:-1,TVC4
+http://188.138.1.104:8000/live/iris/iris/12.ts
+#EXTINF:-1,HOLLYWOOD
+http://188.138.1.104:8000/live/iris/iris/47.ts
+#EXTINF:-1,MOV
+http://188.138.1.104:8000/live/iris/iris/564.ts
+#EXTINF:-1,FOX MOVIES
+http://188.138.1.104:8000/live/iris/iris/492.ts
+#EXTINF:-1,FOX
+http://188.138.1.104:8000/live/iris/iris/369.ts
+#EXTINF:-1,FOX LIFE
+http://188.138.1.104:8000/live/iris/iris/560.ts
+#EXTINF:-1,FOX COMEDY
+http://188.138.1.104:8000/live/iris/iris/709.ts
+#EXTINF:-1,FOX CRIME
+http://188.138.1.104:8000/live/iris/iris/584.ts
+#EXTINF:-1,AXN
+http://188.138.1.104:8000/live/iris/iris/371.ts
+#EXTINF:-1,AXN WHITE
+http://188.138.1.104:8000/live/iris/iris/582.ts
+#EXTINF:-1,TOROS
+http://188.138.1.104:8000/live/iris/iris/427.ts
+#EXTINF:-1,CHASSE ET PECHE
+http://188.138.1.104:8000/live/iris/iris/666.ts
+#EXTINF:-1,SKY ONE
+http://188.138.1.104:8000/live/iris/iris/284.ts
+#EXTINF:-1,SKY SPORTS 1 UK
+http://188.138.1.104:8000/live/iris/iris/281.ts
+#EXTINF:-1,BT SPORT 1 HD
+http://188.138.1.104:8000/live/iris/iris/199.ts
+#EXTINF:-1,FOX SPORTS
+http://188.138.1.104:8000/live/iris/iris/169.ts
+#EXTINF:-1,BEIN SPORT 1 HD
+http://188.138.1.104:8000/live/iris/iris/658.ts
+#EXTINF:-1,BEIN SPORT 2 HD
+http://188.138.1.104:8000/live/iris/iris/659.ts
+#EXTINF:-1,CANAL + LIGA (ES)
+http://188.138.1.104:8000/live/iris/iris/523.ts
+#EXTINF:-1,CANAL + COMEDIA (ES)
+http://188.138.1.104:8000/live/iris/iris/660.ts
+#EXTINF:-1,HOLLYWOOD (ES)
+http://188.138.1.104:8000/live/iris/iris/526.ts
+#EXTINF:-1,AXN WHITE (ES)
+http://188.138.1.104:8000/live/iris/iris/527.ts
+#EXTINF:-1,A&E (ES)
+http://188.138.1.104:8000/live/iris/iris/543.ts
+#EXTINF:-1,RTS 1
+http://188.138.1.104:8000/live/iris/iris/667.ts
+#EXTINF:-1,RTS 2
+http://188.138.1.104:8000/live/iris/iris/668.ts
+#EXTINF:-1,CANAL+
+http://188.138.1.104:8000/live/iris/iris/665.ts
+#EXTINF:-1,TF1
+http://188.138.1.104:8000/live/iris/iris/393.ts
+#EXTINF:-1,FRANCE 2
+http://188.138.1.104:8000/live/iris/iris/494.ts
+#EXTINF:-1,FRANCE 3
+http://188.138.1.104:8000/live/iris/iris/196.ts
+#EXTINF:-1,FRANCE 24
+http://188.138.1.104:8000/live/iris/iris/662.ts
+#EXTINF:-1,FRANCE 0
+http://188.138.1.104:8000/live/iris/iris/663.ts
+#EXTINF:-1,FRANCE 4
+http://188.138.1.104:8000/live/iris/iris/63.ts
+#EXTINF:-1,FRANCE 5
+http://188.138.1.104:8000/live/iris/iris/431.ts
+#EXTINF:-1,M6
+http://188.138.1.104:8000/live/iris/iris/44.ts
+#EXTINF:-1,CINE + PREMIER
+http://188.138.1.104:8000/live/iris/iris/567.ts
+#EXTINF:-1,CANAL+ DECALE
+http://188.138.1.104:8000/live/iris/iris/565.ts
+#EXTINF:-1,CANAL + CINEMA
+http://188.138.1.104:8000/live/iris/iris/425.ts
+#EXTINF:-1,ANIMAUX
+http://188.138.1.104:8000/live/iris/iris/664.ts
+#EXTINF:-1,CANAL + SPORT
+http://188.138.1.104:8000/live/iris/iris/729.ts
+#EXTINF:-1,CANAL + FRISSON
+http://188.138.1.104:8000/live/iris/iris/730.ts
+#EXTINF:-1,ACTION FR
+http://188.138.1.104:8000/live/iris/iris/728.ts
+#EXTINF:-1,TMC
+http://188.138.1.104:8000/live/iris/iris/743.ts
+#EXTINF:-1,SCIENCE ET VIE
+http://188.138.1.104:8000/live/iris/iris/737.ts
+#EXTINF:-1,NT1
+http://188.138.1.104:8000/live/iris/iris/742.ts
+#EXTINF:-1,HD1
+http://188.138.1.104:8000/live/iris/iris/739.ts
+#EXTINF:-1,CINQ+
+http://188.138.1.104:8000/live/iris/iris/741.ts
+#EXTINF:-1,CHERIE 25
+http://188.138.1.104:8000/live/iris/iris/740.ts
+#EXTINF:-1,CARTOON NETWORK FR
+http://188.138.1.104:8000/live/iris/iris/738.ts
+#EXTINF:-1,HBO
+http://188.138.1.104:8000/live/iris/iris/734.ts
+#EXTINF:-1,NBA TV
+http://188.138.1.104:8000/live/iris/iris/736.ts
+#EXTINF:-1,VEVO 1 HD
+http://188.138.1.104:8000/live/iris/iris/238.ts
+#EXTINF:-1,VEVO 2 HD
+http://188.138.1.104:8000/live/iris/iris/244.ts
+#EXTINF:-1,VEVO 3 HD
+http://188.138.1.104:8000/live/iris/iris/245.ts
+#EXTINF:-1,HOME INVASION
+http://188.138.1.104:8000/movie/iris/iris/750.mkv
+#EXTINF:-1,TRUMBO
+http://188.138.1.104:8000/movie/iris/iris/754.mkv
+#EXTINF:-1,JARHEAD 3 THE SIEGE
+http://188.138.1.104:8000/movie/iris/iris/755.mkv
+#EXTINF:-1,ASTEROID FINAL IMPACT
+http://188.138.1.104:8000/movie/iris/iris/752.mkv
+#EXTINF:-1,THE VEIL
+http://188.138.1.104:8000/movie/iris/iris/753.mkv
+#EXTINF:-1,ANESTHESIA
+http://188.138.1.104:8000/movie/iris/iris/751.mkv
+#EXTINF:-1,SHERLOCK: THE ABOMINABLE BRIDE
+http://188.138.1.104:8000/movie/iris/iris/748.mkv
+#EXTINF:-1,GRANDMA
+http://188.138.1.104:8000/movie/iris/iris/749.mkv
+#EXTINF:-1,JERUZALEM
+http://188.138.1.104:8000/movie/iris/iris/745.mkv
+#EXTINF:-1,REGRESSION
+http://188.138.1.104:8000/movie/iris/iris/747.mkv
+#EXTINF:-1,STONEWALL
+http://188.138.1.104:8000/movie/iris/iris/746.mkv
+#EXTINF:-1,CAROL
+http://188.138.1.104:8000/movie/iris/iris/744.mkv
+#EXTINF:-1,MACBETH
+http://188.138.1.104:8000/movie/iris/iris/727.mkv
+#EXTINF:-1,OUR BRAND IS CRISIS
+http://188.138.1.104:8000/movie/iris/iris/726.mkv
+#EXTINF:-1,TERMINUS
+http://188.138.1.104:8000/movie/iris/iris/725.mkv
+#EXTINF:-1,STAR LEAF
+http://188.138.1.104:8000/movie/iris/iris/722.mkv
+#EXTINF:-1,HIDDEN
+http://188.138.1.104:8000/movie/iris/iris/724.mkv
+#EXTINF:-1,EXPERIMENTER
+http://188.138.1.104:8000/movie/iris/iris/723.mkv
+#EXTINF:-1,JOY
+http://188.138.1.104:8000/movie/iris/iris/720.mkv
+#EXTINF:-1,A PERFECT DAY
+http://188.138.1.104:8000/movie/iris/iris/719.mkv
+#EXTINF:-1,SUFFRAGETTE
+http://188.138.1.104:8000/movie/iris/iris/721.mkv
+#EXTINF:-1,STANDOFF
+http://188.138.1.104:8000/movie/iris/iris/718.mkv
+#EXTINF:-1,DIABLO
+http://188.138.1.104:8000/movie/iris/iris/717.mkv
+#EXTINF:-1,BAND OF ROUBBERS
+http://188.138.1.104:8000/movie/iris/iris/715.mkv
+#EXTINF:-1,INTRUDERS
+http://188.138.1.104:8000/movie/iris/iris/716.mkv
+#EXTINF:-1,O ULTIMO CAÇADOR DE BRUXAS
+http://188.138.1.104:8000/movie/iris/iris/712.mkv
+#EXTINF:-1,STEVE JOBS
+http://188.138.1.104:8000/movie/iris/iris/714.mkv
+#EXTINF:-1,ANOMALISA
+http://188.138.1.104:8000/movie/iris/iris/711.mkv
+#EXTINF:-1,BLACK MASS
+http://188.138.1.104:8000/movie/iris/iris/710.mkv
+#EXTINF:-1,PREMONIÇÕES
+http://188.138.1.104:8000/movie/iris/iris/707.mkv
+#EXTINF:-1,THE THROWAWAYS
+http://188.138.1.104:8000/movie/iris/iris/708.mkv
+#EXTINF:-1,LEGEND
+http://188.138.1.104:8000/movie/iris/iris/705.mkv
+#EXTINF:-1,KNIGHT OF CUPS
+http://188.138.1.104:8000/movie/iris/iris/706.mkv
+#EXTINF:-1,CONCUSSION
+http://188.138.1.104:8000/movie/iris/iris/704.mkv
+#EXTINF:-1,BURNT
+http://188.138.1.104:8000/movie/iris/iris/701.mkv
+#EXTINF:-1,THE DANISH GIRL
+http://188.138.1.104:8000/movie/iris/iris/697.mkv
+#EXTINF:-1,THE BIG SHORT - A QUEDA DE WALL STREET
+http://188.138.1.104:8000/movie/iris/iris/696.mkv
+#EXTINF:-1,STRANGERLAND
+http://188.138.1.104:8000/movie/iris/iris/699.mkv
+#EXTINF:-1,ROOM
+http://188.138.1.104:8000/movie/iris/iris/698.mkv
+#EXTINF:-1,STAR WARS THE FORCE AWAKENS
+http://188.138.1.104:8000/movie/iris/iris/695.mkv
+#EXTINF:-1,SPECTRE
+http://188.138.1.104:8000/movie/iris/iris/693.mkv
+#EXTINF:-1,THE REVENANT
+http://188.138.1.104:8000/movie/iris/iris/694.mkv
+#EXTINF:-1,EXTRACTION
+http://188.138.1.104:8000/movie/iris/iris/692.mkv
+#EXTINF:-1,IN THE HART OF THE SEA
+http://188.138.1.104:8000/movie/iris/iris/690.mkv
+#EXTINF:-1,THE HATEFUL EIGHT
+http://188.138.1.104:8000/movie/iris/iris/691.mkv
+#EXTINF:-1,THE BRIDGE OF SPIES
+http://188.138.1.104:8000/movie/iris/iris/687.mkv
+#EXTINF:-1,SNOOPY E CHARLIE BROWN O FILME
+http://188.138.1.104:8000/movie/iris/iris/689.mkv
+#EXTINF:-1,THE GOOD DINOSAUR
+http://188.138.1.104:8000/movie/iris/iris/688.mkv
+#EXTINF:-1,SPOTLIGHT
+http://188.138.1.104:8000/movie/iris/iris/702.mkv
+#EXTINF:-1,BROOKLYN
+http://188.138.1.104:8000/movie/iris/iris/700.mkv
+#EXTINF:-1,AMERICAN HERO
+http://188.138.1.104:8000/movie/iris/iris/686.mkv
+#EXTINF:-1,SICARIO
+http://188.138.1.104:8000/movie/iris/iris/685.mkv
+#EXTINF:-1,CREED
+http://188.138.1.104:8000/movie/iris/iris/684.mkv
+#EXTINF:-1,THE MARTIAN -PERDIDO EM MARTE
+http://188.138.1.104:8000/movie/iris/iris/675.mkv
+#EXTINF:-1,THE RIDICULOUS 6
+http://188.138.1.104:8000/movie/iris/iris/680.mkv
+#EXTINF:-1,THE INTERN
+http://188.138.1.104:8000/movie/iris/iris/682.mkv
+#EXTINF:-1,HEIST
+http://188.138.1.104:8000/movie/iris/iris/681.mkv
+#EXTINF:-1,PAN
+http://188.138.1.104:8000/movie/iris/iris/670.mkv
+#EXTINF:-1,THE WAVE
+http://188.138.1.104:8000/movie/iris/iris/674.mkv
+#EXTINF:-1,ABSOLUTELY ANYTHING
+http://188.138.1.104:8000/movie/iris/iris/669.mkv
+#EXTINF:-1,SCOUTS GUIDE TO THE ZOMBIE APOCALYPSE
+http://188.138.1.104:8000/movie/iris/iris/671.mkv
+#EXTINF:-1,HOTEL TRANSYLVANIA 2
+http://188.138.1.104:8000/movie/iris/iris/679.mkv
+#EXTINF:-1,CRIMSON PEAK
+http://188.138.1.104:8000/movie/iris/iris/676.mkv
+#EXTINF:-1,DARK PLACES
+http://188.138.1.104:8000/movie/iris/iris/677.mkv
+#EXTINF:-1,CONDEMNED
+http://188.138.1.104:8000/movie/iris/iris/678.mkv
+#EXTINF:-1,CLOSE RANGE
+http://188.138.1.104:8000/movie/iris/iris/672.mkv
+#EXTINF:-1,SHARK LAKE
+http://188.138.1.104:8000/movie/iris/iris/673.mkv
+#EXTINF:-1,THE WALK
+http://188.138.1.104:8000/movie/iris/iris/657.mkv
+#EXTINF:-1,GOOSEBUMPS
+http://188.138.1.104:8000/movie/iris/iris/656.mkv
+#EXTINF:-1,O PATIO DAS CANTIGAS
+http://188.138.1.104:8000/movie/iris/iris/645.mkv
+#EXTINF:-1,THE 33
+http://188.138.1.104:8000/movie/iris/iris/640.mkv
+#EXTINF:-1,WE ARE YOUR FRIENDS
+http://188.138.1.104:8000/movie/iris/iris/653.mkv
+#EXTINF:-1,AWAKEN
+http://188.138.1.104:8000/movie/iris/iris/652.mkv
+#EXTINF:-1,TRAINWRECK
+http://188.138.1.104:8000/movie/iris/iris/642.mkv
+#EXTINF:-1,BONE TOMAHAWK
+http://188.138.1.104:8000/movie/iris/iris/641.mkv
+#EXTINF:-1,THE TRANSPORTER REFUELED
+http://188.138.1.104:8000/movie/iris/iris/635.mkv
+#EXTINF:-1,DOPE
+http://188.138.1.104:8000/movie/iris/iris/651.mkv
+#EXTINF:-1,OZLAND
+http://188.138.1.104:8000/movie/iris/iris/643.mkv
+#EXTINF:-1,DEEP DARK
+http://188.138.1.104:8000/movie/iris/iris/644.mkv
+#EXTINF:-1,YOUTH
+http://188.138.1.104:8000/movie/iris/iris/636.mkv
+#EXTINF:-1,THE GIFT
+http://188.138.1.104:8000/movie/iris/iris/631.mkv
+#EXTINF:-1,NOCTURNA
+http://188.138.1.104:8000/movie/iris/iris/632.mkv
+#EXTINF:-1,STEVE JOBS THE MAN IN THE MACHINE
+http://188.138.1.104:8000/movie/iris/iris/633.mkv
+#EXTINF:-1,RICKI AND THE FLASH
+http://188.138.1.104:8000/movie/iris/iris/624.mkv
+#EXTINF:-1,COWBOYS VS DINOSAURS
+http://188.138.1.104:8000/movie/iris/iris/625.mkv
+#EXTINF:-1,THE STANFORD PRISON EXPERIMENT
+http://188.138.1.104:8000/movie/iris/iris/629.mkv
+#EXTINF:-1,MAZE RUNNER
+http://188.138.1.104:8000/movie/iris/iris/637.mkv
+#EXTINF:-1,MAZE RUNNER SCORCH TRIALS
+http://188.138.1.104:8000/movie/iris/iris/601.mkv
+#EXTINF:-1,CURVE
+http://188.138.1.104:8000/movie/iris/iris/630.mkv
+#EXTINF:-1,WRECKER
+http://188.138.1.104:8000/movie/iris/iris/628.mkv
+#EXTINF:-1,AGORAPHOBIA
+http://188.138.1.104:8000/movie/iris/iris/627.mkv
+#EXTINF:-1,RONALDO
+http://188.138.1.104:8000/movie/iris/iris/618.mkv
+#EXTINF:-1,ANTMAN
+http://188.138.1.104:8000/movie/iris/iris/606.mkv
+#EXTINF:-1,THE CONDEMNED 2
+http://188.138.1.104:8000/movie/iris/iris/623.mkv
+#EXTINF:-1,SMOSH
+http://188.138.1.104:8000/movie/iris/iris/619.mkv
+#EXTINF:-1,6 YEARS
+http://188.138.1.104:8000/movie/iris/iris/620.mkv
+#EXTINF:-1,NO ESCAPE
+http://188.138.1.104:8000/movie/iris/iris/599.mkv
+#EXTINF:-1,NARCOPOLIS
+http://188.138.1.104:8000/movie/iris/iris/600.mkv
+#EXTINF:-1,EVEREST
+http://188.138.1.104:8000/movie/iris/iris/572.mkv
+#EXTINF:-1,HITMAN AGENT 47
+http://188.138.1.104:8000/movie/iris/iris/573.mkv
+#EXTINF:-1,THE MAN FROM U.N.C.L.E
+http://188.138.1.104:8000/movie/iris/iris/588.mkv
+#EXTINF:-1,VACATION
+http://188.138.1.104:8000/movie/iris/iris/577.mkv
+#EXTINF:-1,MONSTER HUNT
+http://188.138.1.104:8000/movie/iris/iris/591.mkv
+#EXTINF:-1,PARTISAN
+http://188.138.1.104:8000/movie/iris/iris/589.mkv
+#EXTINF:-1,PRESSURE
+http://188.138.1.104:8000/movie/iris/iris/547.mkv
+#EXTINF:-1,MOMENTUM
+http://188.138.1.104:8000/movie/iris/iris/545.mkv
+#EXTINF:-1,DEATHGASM
+http://188.138.1.104:8000/movie/iris/iris/550.mkv
+#EXTINF:-1,3 HEADED SHARK ATACK
+http://188.138.1.104:8000/movie/iris/iris/551.mkv
+#EXTINF:-1,MR. HOLMES
+http://188.138.1.104:8000/movie/iris/iris/537.mkv
+#EXTINF:-1,4GOT10
+http://188.138.1.104:8000/movie/iris/iris/538.mkv
+#EXTINF:-1,MAX
+http://188.138.1.104:8000/movie/iris/iris/499.mkv
+#EXTINF:-1,KNOCK KNOCK
+http://188.138.1.104:8000/movie/iris/iris/500.mkv
+#EXTINF:-1,WAR PIGS
+http://188.138.1.104:8000/movie/iris/iris/501.mkv
+#EXTINF:-1,MISSION IMPOSSIBLE ROGUE NATION
+http://188.138.1.104:8000/movie/iris/iris/476.mkv
+#EXTINF:-1,TREMORS 5
+http://188.138.1.104:8000/movie/iris/iris/496.mkv
+#EXTINF:-1,THE VATICAN TAPE
+http://188.138.1.104:8000/movie/iris/iris/497.mkv
+#EXTINF:-1,PAPER TOWNS
+http://188.138.1.104:8000/movie/iris/iris/498.mkv
+#EXTINF:-1,THE VISIT
+http://188.138.1.104:8000/movie/iris/iris/485.mkv
+#EXTINF:-1,PAY THE GHOST
+http://188.138.1.104:8000/movie/iris/iris/483.mkv
+#EXTINF:-1,KIDNAPPING MR. HEINEKEN
+http://188.138.1.104:8000/movie/iris/iris/484.mkv
+#EXTINF:-1,TOXIN
+http://188.138.1.104:8000/movie/iris/iris/486.mkv
+#EXTINF:-1,THE OVERNIGHT
+http://188.138.1.104:8000/movie/iris/iris/489.mkv
+#EXTINF:-1,DARK MOON RISING
+http://188.138.1.104:8000/movie/iris/iris/487.mkv
+#EXTINF:-1,PIXELS
+http://188.138.1.104:8000/movie/iris/iris/477.mkv
+#EXTINF:-1,ALOHA
+http://188.138.1.104:8000/movie/iris/iris/478.mkv
+#EXTINF:-1,COOTIES
+http://188.138.1.104:8000/movie/iris/iris/482.mkv
+#EXTINF:-1,TOMORROWLAND
+http://188.138.1.104:8000/movie/iris/iris/466.mkv
+#EXTINF:-1,AMERICAN ULTRA
+http://188.138.1.104:8000/movie/iris/iris/461.mkv
+#EXTINF:-1,DIRTY WEEKEND
+http://188.138.1.104:8000/movie/iris/iris/480.mkv
+#EXTINF:-1,BLUNT FORCE TRAUMA
+http://188.138.1.104:8000/movie/iris/iris/479.mkv
+#EXTINF:-1,ATTACK ON TITAN
+http://188.138.1.104:8000/movie/iris/iris/472.mkv
+#EXTINF:-1,HELLIONS
+http://188.138.1.104:8000/movie/iris/iris/481.mkv
+#EXTINF:-1,VENDETTA
+http://188.138.1.104:8000/movie/iris/iris/473.mkv
+#EXTINF:-1,SPOOKS THE GREATER GOOD
+http://188.138.1.104:8000/movie/iris/iris/474.mkv
+#EXTINF:-1,AIR
+http://188.138.1.104:8000/movie/iris/iris/475.mkv
+#EXTINF:-1,STAR TREK: RENEGADES
+http://188.138.1.104:8000/movie/iris/iris/462.mkv
+#EXTINF:-1,THE D TRAIN
+http://188.138.1.104:8000/movie/iris/iris/463.mkv
+#EXTINF:-1,CHILD 44
+http://188.138.1.104:8000/movie/iris/iris/464.mkv
+#EXTINF:-1,COP CAR
+http://188.138.1.104:8000/movie/iris/iris/469.mkv
+#EXTINF:-1,LOST AFTER DARK
+http://188.138.1.104:8000/movie/iris/iris/467.mkv
+#EXTINF:-1,ZIPPER
+http://188.138.1.104:8000/movie/iris/iris/470.mkv
+#EXTINF:-1,THE GALLOWS - A FORCA
+http://188.138.1.104:8000/movie/iris/iris/471.mkv
+#EXTINF:-1,AMNESIAC
+http://188.138.1.104:8000/movie/iris/iris/468.mkv
+#EXTINF:-1,LOVE AND MERCY
+http://188.138.1.104:8000/movie/iris/iris/465.mkv
+#EXTINF:-1,DARK WAS THE NIGHT
+http://188.138.1.104:8000/movie/iris/iris/455.mkv
+#EXTINF:-1,PREY FOR DEATH
+http://188.138.1.104:8000/movie/iris/iris/456.mkv
+#EXTINF:-1,TRACERS
+http://188.138.1.104:8000/movie/iris/iris/460.mkv
+#EXTINF:-1,PITCH PERFECT 2
+http://188.138.1.104:8000/movie/iris/iris/459.mkv
+#EXTINF:-1,ONE AND TWO
+http://188.138.1.104:8000/movie/iris/iris/458.mkv
+#EXTINF:-1,6 WAYS TO SUNDOWN
+http://188.138.1.104:8000/movie/iris/iris/457.mkv
+#EXTINF:-1,ENTOURAGE
+http://188.138.1.104:8000/movie/iris/iris/450.mkv
+#EXTINF:-1,SOUTHPAW
+http://188.138.1.104:8000/movie/iris/iris/451.mkv
+#EXTINF:-1,12 ROUNDS 3 LOCKDOWN
+http://188.138.1.104:8000/movie/iris/iris/454.mkv
+#EXTINF:-1,BELAS E PERSEGUIDAS
+http://188.138.1.104:8000/movie/iris/iris/453.mkv
+#EXTINF:-1,BARELY LETHAL
+http://188.138.1.104:8000/movie/iris/iris/452.mkv
+#EXTINF:-1,FANTASTIC FOUR
+http://188.138.1.104:8000/movie/iris/iris/448.mkv
+#EXTINF:-1,SELF LESS
+http://188.138.1.104:8000/movie/iris/iris/446.mkv
+#EXTINF:-1,TURBOKID
+http://188.138.1.104:8000/movie/iris/iris/447.mkv
+#EXTINF:-1,SHARKNADO
+http://188.138.1.104:8000/movie/iris/iris/439.mkv
+#EXTINF:-1,SHARKNADO 2
+http://188.138.1.104:8000/movie/iris/iris/440.mkv
+#EXTINF:-1,SHARKNADO 3: OH HELL NO!
+http://188.138.1.104:8000/movie/iris/iris/441.mkv
+#EXTINF:-1,SAN ANDREAS
+http://188.138.1.104:8000/movie/iris/iris/436.mkv
+#EXTINF:-1,MAGIC MIKE XXL
+http://188.138.1.104:8000/movie/iris/iris/437.mkv
+#EXTINF:-1,SPY
+http://188.138.1.104:8000/movie/iris/iris/392.mkv
+#EXTINF:-1,Z FOR ZACHARIAH
+http://188.138.1.104:8000/movie/iris/iris/438.mkv
+#EXTINF:-1,TERMINATOR GENESYS
+http://188.138.1.104:8000/movie/iris/iris/419.mkv
+#EXTINF:-1,JURASSIC WORLD
+http://188.138.1.104:8000/movie/iris/iris/395.mkv
+#EXTINF:-1,OS VINGADORES AGE OF ULTRON
+http://188.138.1.104:8000/movie/iris/iris/432.mkv
+#EXTINF:-1,EXTICTION
+http://188.138.1.104:8000/movie/iris/iris/420.mkv
+#EXTINF:-1,THE LOFT
+http://188.138.1.104:8000/movie/iris/iris/434.mkv
+#EXTINF:-1,ROBOTS OVERLORDS
+http://188.138.1.104:8000/movie/iris/iris/430.mkv
+#EXTINF:-1,TED 2
+http://188.138.1.104:8000/movie/iris/iris/396.mkv
+#EXTINF:-1,INSURGENT
+http://188.138.1.104:8000/movie/iris/iris/397.mkv
+#EXTINF:-1,BIG GAME
+http://188.138.1.104:8000/movie/iris/iris/365.mkv
+#EXTINF:-1,TRUE STORY
+http://188.138.1.104:8000/movie/iris/iris/398.mkv
+#EXTINF:-1,MAD MAX ROAD FURY
+http://188.138.1.104:8000/movie/iris/iris/384.mkv
+#EXTINF:-1,THE GUNMAN
+http://188.138.1.104:8000/movie/iris/iris/385.mkv
+#EXTINF:-1,POLTERGEIST
+http://188.138.1.104:8000/movie/iris/iris/386.mkv
+#EXTINF:-1,THE SECOND BEST EXOTIC MARIGOLD HOTEL
+http://188.138.1.104:8000/movie/iris/iris/387.mkv
+#EXTINF:-1,KILL ME THREE TIMES
+http://188.138.1.104:8000/movie/iris/iris/388.mkv
+#EXTINF:-1,VELOCIDADE FURIOSA 7
+http://188.138.1.104:8000/movie/iris/iris/309.mkv
+#EXTINF:-1,VELOCIDADE FURIOSA 6
+http://188.138.1.104:8000/movie/iris/iris/120.mkv
+#EXTINF:-1,VELOCIDADE FURIOSA 5
+http://188.138.1.104:8000/movie/iris/iris/411.mkv
+#EXTINF:-1,WHILE WERE YOUNG
+http://188.138.1.104:8000/movie/iris/iris/383.mkv
+#EXTINF:-1,GET HARD
+http://188.138.1.104:8000/movie/iris/iris/380.mkv
+#EXTINF:-1,CINDERELLA
+http://188.138.1.104:8000/movie/iris/iris/381.mkv
+#EXTINF:-1,POUND OF FLESH
+http://188.138.1.104:8000/movie/iris/iris/378.mkv
+#EXTINF:-1,RUN ALL NIGHT
+http://188.138.1.104:8000/movie/iris/iris/372.mkv
+#EXTINF:-1,IT FOLLOWS
+http://188.138.1.104:8000/movie/iris/iris/373.mkv
+#EXTINF:-1,SURVIVOR
+http://188.138.1.104:8000/movie/iris/iris/364.mkv
+#EXTINF:-1,JURASSIC CITY
+http://188.138.1.104:8000/movie/iris/iris/374.mkv
+#EXTINF:-1,KUNG FURY
+http://188.138.1.104:8000/movie/iris/iris/363.mkv
+#EXTINF:-1,THE AGE OF ADALINE
+http://188.138.1.104:8000/movie/iris/iris/360.mkv
+#EXTINF:-1,PARALLELS
+http://188.138.1.104:8000/movie/iris/iris/350.mkv
+#EXTINF:-1,MCFARLAND USA
+http://188.138.1.104:8000/movie/iris/iris/352.mkv
+#EXTINF:-1,THE LAZARUS EFECT
+http://188.138.1.104:8000/movie/iris/iris/351.mkv
+#EXTINF:-1,GODZILLA
+http://188.138.1.104:8000/movie/iris/iris/310.mkv
+#EXTINF:-1,TRANSFORMERS AGE OF EXTINCTION
+http://188.138.1.104:8000/movie/iris/iris/299.mkv
+#EXTINF:-1,KINGSMAN
+http://188.138.1.104:8000/movie/iris/iris/302.mkv
+#EXTINF:-1,PROJECT ALMANAC
+http://188.138.1.104:8000/movie/iris/iris/324.mkv
+#EXTINF:-1,CHAPPIE
+http://188.138.1.104:8000/movie/iris/iris/325.mkv
+#EXTINF:-1,EX MACHINA
+http://188.138.1.104:8000/movie/iris/iris/323.mkv
+#EXTINF:-1,MAGGIE
+http://188.138.1.104:8000/movie/iris/iris/311.mkv
+#EXTINF:-1,FOCUS
+http://188.138.1.104:8000/movie/iris/iris/313.mkv
+#EXTINF:-1,FOXCATCHER
+http://188.138.1.104:8000/movie/iris/iris/305.mp4
+#EXTINF:-1,THE HUNGER GAMES MOCKINGJAY PART1
+http://188.138.1.104:8000/movie/iris/iris/303.mkv
+#EXTINF:-1,WHIPLASH EM BUSCA DA PERFEIÇÃO
+http://188.138.1.104:8000/movie/iris/iris/301.mkv
+#EXTINF:-1,SELMA A MARCHA DA LIBERDADE
+http://188.138.1.104:8000/movie/iris/iris/307.mkv
+#EXTINF:-1,O MEU NOME É ALICE
+http://188.138.1.104:8000/movie/iris/iris/308.mkv
+#EXTINF:-1,GOOD KILL
+http://188.138.1.104:8000/movie/iris/iris/298.mkv
+#EXTINF:-1,DRACULA UNTOLD
+http://188.138.1.104:8000/movie/iris/iris/306.mkv
+#EXTINF:-1,FURIA
+http://188.138.1.104:8000/movie/iris/iris/297.mkv
+#EXTINF:-1,SABOTAGE
+http://188.138.1.104:8000/movie/iris/iris/304.mp4
+#EXTINF:-1,MORTDECAI
+http://188.138.1.104:8000/movie/iris/iris/296.mkv
+#EXTINF:-1,WILD CARD
+http://188.138.1.104:8000/movie/iris/iris/300.mp4
+#EXTINF:-1,NON STOP
+http://188.138.1.104:8000/movie/iris/iris/295.mkv
+#EXTINF:-1,JUPITER ASCENDING
+http://188.138.1.104:8000/movie/iris/iris/293.mkv
+#EXTINF:-1,AMERICAN SNIPER
+http://188.138.1.104:8000/movie/iris/iris/263.mkv
+#EXTINF:-1,PROMESSA DE UMA VIDA
+http://188.138.1.104:8000/movie/iris/iris/267.mkv
+#EXTINF:-1,SEVENTH SON
+http://188.138.1.104:8000/movie/iris/iris/264.mkv
+#EXTINF:-1,BLACKHAT
+http://188.138.1.104:8000/movie/iris/iris/265.mkv
+#EXTINF:-1,BLACK SEA
+http://188.138.1.104:8000/movie/iris/iris/266.mkv
+#EXTINF:-1,TEENAGE MUTANT NINJA TURTLES
+http://188.138.1.104:8000/movie/iris/iris/314.mkv
+#EXTINF:-1,THE GIVER - O DADOR DE MEMORIAS
+http://188.138.1.104:8000/movie/iris/iris/320.mkv
+#EXTINF:-1,REDIRECTED
+http://188.138.1.104:8000/movie/iris/iris/319.mkv
+#EXTINF:-1,DUMD AND DUMBER TO
+http://188.138.1.104:8000/movie/iris/iris/317.mkv
+#EXTINF:-1,AUTOMATA
+http://188.138.1.104:8000/movie/iris/iris/316.mkv
+#EXTINF:-1,ALIEN OUTPOST
+http://188.138.1.104:8000/movie/iris/iris/315.mkv
+#EXTINF:-1,I ORIGINS
+http://188.138.1.104:8000/movie/iris/iris/318.mkv
+#EXTINF:-1,INTERSTELLAR
+http://188.138.1.104:8000/movie/iris/iris/243.mkv
+#EXTINF:-1,NO LIMITE DO AMANHA
+http://188.138.1.104:8000/movie/iris/iris/210.mkv
+#EXTINF:-1,FURY
+http://188.138.1.104:8000/movie/iris/iris/209.mkv
+#EXTINF:-1,THE EQUALIZER
+http://188.138.1.104:8000/movie/iris/iris/211.mkv
+#EXTINF:-1,THE GAMBLER
+http://188.138.1.104:8000/movie/iris/iris/261.mkv
+#EXTINF:-1,LAST KNIGHTS
+http://188.138.1.104:8000/movie/iris/iris/259.mkv
+#EXTINF:-1,INVENCÍVEL
+http://188.138.1.104:8000/movie/iris/iris/260.mkv
+#EXTINF:-1,JOHN WICK
+http://188.138.1.104:8000/movie/iris/iris/212.mkv
+#EXTINF:-1,CAÇADA MORTAL
+http://188.138.1.104:8000/movie/iris/iris/247.mkv
+#EXTINF:-1,EXODUS GODS AND KINGS (MOISES)
+http://188.138.1.104:8000/movie/iris/iris/150.mkv
+#EXTINF:-1,POMPEIA
+http://188.138.1.104:8000/movie/iris/iris/96.mkv
+#EXTINF:-1,TAKEN 3
+http://188.138.1.104:8000/movie/iris/iris/246.mp4
+#EXTINF:-1,A TEORIA DE TUDO
+http://188.138.1.104:8000/movie/iris/iris/216.mkv
+#EXTINF:-1,BIRDMAN
+http://188.138.1.104:8000/movie/iris/iris/215.mkv
+#EXTINF:-1,HOMEM DE FERRO 3
+http://188.138.1.104:8000/movie/iris/iris/248.mkv
+#EXTINF:-1,NIGHTCRAWLER
+http://188.138.1.104:8000/movie/iris/iris/214.mkv
+#EXTINF:-1,ROTA DE FUGA
+http://188.138.1.104:8000/movie/iris/iris/92.mkv
+#EXTINF:-1,SEM DOR, SEM GANHO
+http://188.138.1.104:8000/movie/iris/iris/98.mkv
+#EXTINF:-1,GRAVIDADE
+http://188.138.1.104:8000/movie/iris/iris/75.mkv
+#EXTINF:-1,EU, FRANKENSTEIN
+http://188.138.1.104:8000/movie/iris/iris/117.mkv
+#EXTINF:-1,O ULTIMO DESAFIO
+http://188.138.1.104:8000/movie/iris/iris/119.mkv
+#EXTINF:-1,12 ANOS ESCRAVO
+http://188.138.1.104:8000/movie/iris/iris/93.mkv
+#EXTINF:-1,A GAIOLA DOURADA
+http://188.138.1.104:8000/movie/iris/iris/94.mp4
+#EXTINF:-1,LUCY
+http://188.138.1.104:8000/movie/iris/iris/97.mp4
+#EXTINF:-1,GUARDIOES DA GALAXIA
+http://188.138.1.104:8000/movie/iris/iris/85.mkv
+#EXTINF:-1,SEM GRAVIDADE...SEM CEREBRO
+http://188.138.1.104:8000/movie/iris/iris/76.mkv
+#EXTINF:-1,A GOOD DAY TO DIE HARD
+http://188.138.1.104:8000/movie/iris/iris/145.mkv
+#EXTINF:-1,50 SOMBRAS DE GREY
+http://188.138.1.104:8000/movie/iris/iris/149.mkv
+#EXTINF:-1,G.I.JOE RETALIATION
+http://188.138.1.104:8000/movie/iris/iris/148.mkv
+#EXTINF:-1,NOÉ
+http://188.138.1.104:8000/movie/iris/iris/129.mkv
+#EXTINF:-1,INVASÃO A CASA BRANCA
+http://188.138.1.104:8000/movie/iris/iris/151.mkv
+#EXTINF:-1,PACIFIC RIM
+http://188.138.1.104:8000/movie/iris/iris/147.mkv
+#EXTINF:-1,EXPRESSO DO AMANHÃ
+http://188.138.1.104:8000/movie/iris/iris/146.mkv
+#EXTINF:-1,AMANHECER VIOLENTO
+http://188.138.1.104:8000/movie/iris/iris/177.mkv
+#EXTINF:-1,TIME LAPSE
+http://188.138.1.104:8000/movie/iris/iris/178.mkv
+#EXTINF:-1,O JOGO DA IMITAÇÃO
+http://188.138.1.104:8000/movie/iris/iris/206.mkv
+#EXTINF:-1,LEGO THE ADVENTURES OF CLUTCH POWERS
+http://188.138.1.104:8000/movie/iris/iris/225.mkv
+#EXTINF:-1,DIVERTIDA MENTE (PORTUGUES)
+http://188.138.1.104:8000/movie/iris/iris/488.mkv
+#EXTINF:-1,MINIONS (PORTUGUES)
+http://188.138.1.104:8000/movie/iris/iris/435.mkv
+#EXTINF:-1,MINIONS CRO MINION MINI MOVIE
+http://188.138.1.104:8000/movie/iris/iris/649.mkv
+#EXTINF:-1,MINIONS COMPETITION MINI MOVIE
+http://188.138.1.104:8000/movie/iris/iris/648.mkv
+#EXTINF:-1,MINIONS BLINKY NELSON MINI MOVIE
+http://188.138.1.104:8000/movie/iris/iris/650.mkv
+#EXTINF:-1,Byonce live
+http://188.138.1.104:8000/movie/iris/iris/213.mkv
+#EXTINF:-1,katy perry
+http://188.138.1.104:8000/movie/iris/iris/205.mkv

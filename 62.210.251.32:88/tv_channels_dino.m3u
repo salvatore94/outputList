@@ -1,0 +1,373 @@
+#EXTM3U
+#EXTINF:-1,BBC1
+http://62.210.251.32:88/live/dino/dino/373.ts
+#EXTINF:-1,BBC1 HD
+http://62.210.251.32:88/live/dino/dino/372.ts
+#EXTINF:-1,BBC2
+http://62.210.251.32:88/live/dino/dino/371.ts
+#EXTINF:-1,BBC2 HD
+http://62.210.251.32:88/live/dino/dino/370.ts
+#EXTINF:-1,BBC3
+http://62.210.251.32:88/live/dino/dino/368.ts
+#EXTINF:-1,BBC4
+http://62.210.251.32:88/live/dino/dino/366.ts
+#EXTINF:-1,ITV1
+http://62.210.251.32:88/live/dino/dino/315.ts
+#EXTINF:-1,ITV1 HD
+http://62.210.251.32:88/live/dino/dino/313.ts
+#EXTINF:-1,ITV1 1
+http://62.210.251.32:88/live/dino/dino/314.ts
+#EXTINF:-1,ITV2
+http://62.210.251.32:88/live/dino/dino/312.ts
+#EXTINF:-1,ITV3
+http://62.210.251.32:88/live/dino/dino/311.ts
+#EXTINF:-1,ITV4
+http://62.210.251.32:88/live/dino/dino/310.ts
+#EXTINF:-1,ITV Encore
+http://62.210.251.32:88/live/dino/dino/316.ts
+#EXTINF:-1,ITV Be
+http://62.210.251.32:88/live/dino/dino/317.ts
+#EXTINF:-1,Alibi
+http://62.210.251.32:88/live/dino/dino/377.ts
+#EXTINF:-1,5USA
+http://62.210.251.32:88/live/dino/dino/378.ts
+#EXTINF:-1,5Star
+http://62.210.251.32:88/live/dino/dino/379.ts
+#EXTINF:-1,4Seven
+http://62.210.251.32:88/live/dino/dino/380.ts
+#EXTINF:-1,3e
+http://62.210.251.32:88/live/dino/dino/381.ts
+#EXTINF:-1,Sky1
+http://62.210.251.32:88/live/dino/dino/253.ts
+#EXTINF:-1,Sky2
+http://62.210.251.32:88/live/dino/dino/252.ts
+#EXTINF:-1,Sky Living
+http://62.210.251.32:88/live/dino/dino/279.ts
+#EXTINF:-1,Sky Atlantic
+http://62.210.251.32:88/live/dino/dino/280.ts
+#EXTINF:-1,Sky Arts 1
+http://62.210.251.32:88/live/dino/dino/281.ts
+#EXTINF:-1,Yesterday
+http://62.210.251.32:88/live/dino/dino/233.ts
+#EXTINF:-1,Watch
+http://62.210.251.32:88/live/dino/dino/234.ts
+#EXTINF:-1,Viva
+http://62.210.251.32:88/live/dino/dino/235.ts
+#EXTINF:-1,Vintage TV
+http://62.210.251.32:88/live/dino/dino/236.ts
+#EXTINF:-1,VH1
+http://62.210.251.32:88/live/dino/dino/237.ts
+#EXTINF:-1,UTV
+http://62.210.251.32:88/live/dino/dino/238.ts
+#EXTINF:-1,Universal
+http://62.210.251.32:88/live/dino/dino/239.ts
+#EXTINF:-1,TV3
+http://62.210.251.32:88/live/dino/dino/240.ts
+#EXTINF:-1,Turbo
+http://62.210.251.32:88/live/dino/dino/241.ts
+#EXTINF:-1,Travel Channel
+http://62.210.251.32:88/live/dino/dino/244.ts
+#EXTINF:-1,TLC
+http://62.210.251.32:88/live/dino/dino/245.ts
+#EXTINF:-1,The Vault
+http://62.210.251.32:88/live/dino/dino/246.ts
+#EXTINF:-1,TG4
+http://62.210.251.32:88/live/dino/dino/247.ts
+#EXTINF:-1,TCM
+http://62.210.251.32:88/live/dino/dino/248.ts
+#EXTINF:-1,Syfy UK
+http://62.210.251.32:88/live/dino/dino/249.ts
+#EXTINF:-1,STV
+http://62.210.251.32:88/live/dino/dino/250.ts
+#EXTINF:-1,Sky Sports News HD
+http://62.210.251.32:88/live/dino/dino/254.ts
+#EXTINF:-1,Sky Sports News
+http://62.210.251.32:88/live/dino/dino/255.ts
+#EXTINF:-1,Sky Sports 1
+http://62.210.251.32:88/live/dino/dino/267.ts
+#EXTINF:-1,Sky Sports 1 HD
+http://62.210.251.32:88/live/dino/dino/266.ts
+#EXTINF:-1,Sky Sports 2
+http://62.210.251.32:88/live/dino/dino/265.ts
+#EXTINF:-1,Sky Sports 2 HD
+http://62.210.251.32:88/live/dino/dino/264.ts
+#EXTINF:-1,Sky Sports 3
+http://62.210.251.32:88/live/dino/dino/263.ts
+#EXTINF:-1,Sky Sports 3 HD
+http://62.210.251.32:88/live/dino/dino/262.ts
+#EXTINF:-1,Sky Sports 4
+http://62.210.251.32:88/live/dino/dino/261.ts
+#EXTINF:-1,Sky Sports 4 HD
+http://62.210.251.32:88/live/dino/dino/260.ts
+#EXTINF:-1,Sky Sports 5
+http://62.210.251.32:88/live/dino/dino/259.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://62.210.251.32:88/live/dino/dino/258.ts
+#EXTINF:-1,Sky Sports F1
+http://62.210.251.32:88/live/dino/dino/257.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://62.210.251.32:88/live/dino/dino/256.ts
+#EXTINF:-1,Sky News
+http://62.210.251.32:88/live/dino/dino/268.ts
+#EXTINF:-1,Sky Movies Select
+http://62.210.251.32:88/live/dino/dino/269.ts
+#EXTINF:-1,Sky Movies SciFi
+http://62.210.251.32:88/live/dino/dino/270.ts
+#EXTINF:-1,Sky Movies Premiere
+http://62.210.251.32:88/live/dino/dino/271.ts
+#EXTINF:-1,Sky Movies Greats
+http://62.210.251.32:88/live/dino/dino/272.ts
+#EXTINF:-1,Sky Movies Family
+http://62.210.251.32:88/live/dino/dino/273.ts
+#EXTINF:-1,Sky Movies Drama
+http://62.210.251.32:88/live/dino/dino/274.ts
+#EXTINF:-1,Sky Movies Disney
+http://62.210.251.32:88/live/dino/dino/275.ts
+#EXTINF:-1,Sky Movies Crime
+http://62.210.251.32:88/live/dino/dino/276.ts
+#EXTINF:-1,Sky Movies Comedy
+http://62.210.251.32:88/live/dino/dino/277.ts
+#EXTINF:-1,Sky Movies Action & Adventure
+http://62.210.251.32:88/live/dino/dino/278.ts
+#EXTINF:-1,Showcase
+http://62.210.251.32:88/live/dino/dino/282.ts
+#EXTINF:-1,True Movies 2
+http://62.210.251.32:88/live/dino/dino/242.ts
+#EXTINF:-1,True Movies 1
+http://62.210.251.32:88/live/dino/dino/243.ts
+#EXTINF:-1,Setanta Sports 1
+http://62.210.251.32:88/live/dino/dino/283.ts
+#EXTINF:-1,Setanta Ireland
+http://62.210.251.32:88/live/dino/dino/284.ts
+#EXTINF:-1,RTE 2
+http://62.210.251.32:88/live/dino/dino/285.ts
+#EXTINF:-1,RTE 1
+http://62.210.251.32:88/live/dino/dino/286.ts
+#EXTINF:-1,Really
+http://62.210.251.32:88/live/dino/dino/287.ts
+#EXTINF:-1,Racing UK
+http://62.210.251.32:88/live/dino/dino/288.ts
+#EXTINF:-1,Quest
+http://62.210.251.32:88/live/dino/dino/289.ts
+#EXTINF:-1,Pick TV
+http://62.210.251.32:88/live/dino/dino/290.ts
+#EXTINF:-1,NickToons
+http://62.210.251.32:88/live/dino/dino/291.ts
+#EXTINF:-1,Nickelodeon
+http://62.210.251.32:88/live/dino/dino/292.ts
+#EXTINF:-1,Nick Jr
+http://62.210.251.32:88/live/dino/dino/293.ts
+#EXTINF:-1,Nat Geo Wild
+http://62.210.251.32:88/live/dino/dino/294.ts
+#EXTINF:-1,Nat Geo
+http://62.210.251.32:88/live/dino/dino/295.ts
+#EXTINF:-1,MUTV
+http://62.210.251.32:88/live/dino/dino/296.ts
+#EXTINF:-1,MTV Rocks
+http://62.210.251.32:88/live/dino/dino/297.ts
+#EXTINF:-1,MTV Music
+http://62.210.251.32:88/live/dino/dino/298.ts
+#EXTINF:-1,MTV Hits
+http://62.210.251.32:88/live/dino/dino/299.ts
+#EXTINF:-1,MTV Dance
+http://62.210.251.32:88/live/dino/dino/300.ts
+#EXTINF:-1,MTV Classic
+http://62.210.251.32:88/live/dino/dino/301.ts
+#EXTINF:-1,MTV Base
+http://62.210.251.32:88/live/dino/dino/302.ts
+#EXTINF:-1,MTV
+http://62.210.251.32:88/live/dino/dino/303.ts
+#EXTINF:-1,Movies 24
+http://62.210.251.32:88/live/dino/dino/304.ts
+#EXTINF:-1,Motors TV
+http://62.210.251.32:88/live/dino/dino/305.ts
+#EXTINF:-1,More4
+http://62.210.251.32:88/live/dino/dino/306.ts
+#EXTINF:-1,Magic
+http://62.210.251.32:88/live/dino/dino/307.ts
+#EXTINF:-1,Lifetime
+http://62.210.251.32:88/live/dino/dino/308.ts
+#EXTINF:-1,LFC TV
+http://62.210.251.32:88/live/dino/dino/309.ts
+#EXTINF:-1,Irish TV
+http://62.210.251.32:88/live/dino/dino/318.ts
+#EXTINF:-1,Investigation Discovery
+http://62.210.251.32:88/live/dino/dino/319.ts
+#EXTINF:-1,Home and Health
+http://62.210.251.32:88/live/dino/dino/320.ts
+#EXTINF:-1,Home
+http://62.210.251.32:88/live/dino/dino/321.ts
+#EXTINF:-1,History
+http://62.210.251.32:88/live/dino/dino/322.ts
+#EXTINF:-1,Heart TV
+http://62.210.251.32:88/live/dino/dino/323.ts
+#EXTINF:-1,h2
+http://62.210.251.32:88/live/dino/dino/324.ts
+#EXTINF:-1,Good Food
+http://62.210.251.32:88/live/dino/dino/325.ts
+#EXTINF:-1,Gold
+http://62.210.251.32:88/live/dino/dino/326.ts
+#EXTINF:-1,Fox
+http://62.210.251.32:88/live/dino/dino/327.ts
+#EXTINF:-1,Food Network
+http://62.210.251.32:88/live/dino/dino/328.ts
+#EXTINF:-1,Flava
+http://62.210.251.32:88/live/dino/dino/329.ts
+#EXTINF:-1,Five
+http://62.210.251.32:88/live/dino/dino/330.ts
+#EXTINF:-1,Film 4
+http://62.210.251.32:88/live/dino/dino/331.ts
+#EXTINF:-1,Eurosport 2
+http://62.210.251.32:88/live/dino/dino/332.ts
+#EXTINF:-1,Eurosport
+http://62.210.251.32:88/live/dino/dino/333.ts
+#EXTINF:-1,ESPN HD
+http://62.210.251.32:88/live/dino/dino/334.ts
+#EXTINF:-1,ESPN
+http://62.210.251.32:88/live/dino/dino/335.ts
+#EXTINF:-1,E4
+http://62.210.251.32:88/live/dino/dino/336.ts
+#EXTINF:-1,E!
+http://62.210.251.32:88/live/dino/dino/337.ts
+#EXTINF:-1,Drama
+http://62.210.251.32:88/live/dino/dino/338.ts
+#EXTINF:-1,DMAX
+http://62.210.251.32:88/live/dino/dino/339.ts
+#EXTINF:-1,DisneyXD
+http://62.210.251.32:88/live/dino/dino/340.ts
+#EXTINF:-1,Disney JR
+http://62.210.251.32:88/live/dino/dino/341.ts
+#EXTINF:-1,Disney
+http://62.210.251.32:88/live/dino/dino/342.ts
+#EXTINF:-1,Discovery Science
+http://62.210.251.32:88/live/dino/dino/343.ts
+#EXTINF:-1,Discovery History
+http://62.210.251.32:88/live/dino/dino/344.ts
+#EXTINF:-1,Discovery
+http://62.210.251.32:88/live/dino/dino/345.ts
+#EXTINF:-1,Dave
+http://62.210.251.32:88/live/dino/dino/346.ts
+#EXTINF:-1,Comedy Central Extra
+http://62.210.251.32:88/live/dino/dino/347.ts
+#EXTINF:-1,Comedy Central
+http://62.210.251.32:88/live/dino/dino/348.ts
+#EXTINF:-1,CNN
+http://62.210.251.32:88/live/dino/dino/349.ts
+#EXTINF:-1,CNBC
+http://62.210.251.32:88/live/dino/dino/350.ts
+#EXTINF:-1,CI
+http://62.210.251.32:88/live/dino/dino/351.ts
+#EXTINF:-1,Chelsea TV
+http://62.210.251.32:88/live/dino/dino/352.ts
+#EXTINF:-1,Channel 4 HD
+http://62.210.251.32:88/live/dino/dino/353.ts
+#EXTINF:-1,Channel 4
+http://62.210.251.32:88/live/dino/dino/354.ts
+#EXTINF:-1,CBS Realty
+http://62.210.251.32:88/live/dino/dino/355.ts
+#EXTINF:-1,CBS Drama
+http://62.210.251.32:88/live/dino/dino/356.ts
+#EXTINF:-1,CBS Action
+http://62.210.251.32:88/live/dino/dino/357.ts
+#EXTINF:-1,Cartoon Network
+http://62.210.251.32:88/live/dino/dino/358.ts
+#EXTINF:-1,BT Sport Europe
+http://62.210.251.32:88/live/dino/dino/359.ts
+#EXTINF:-1,BT Sport 2 HD
+http://62.210.251.32:88/live/dino/dino/360.ts
+#EXTINF:-1,BT Sport 2
+http://62.210.251.32:88/live/dino/dino/361.ts
+#EXTINF:-1,BT Sport 1 HD
+http://62.210.251.32:88/live/dino/dino/362.ts
+#EXTINF:-1,BT Sport 1
+http://62.210.251.32:88/live/dino/dino/363.ts
+#EXTINF:-1,Box Nation
+http://62.210.251.32:88/live/dino/dino/364.ts
+#EXTINF:-1,Bloomberg
+http://62.210.251.32:88/live/dino/dino/365.ts
+#EXTINF:-1,BBC News
+http://62.210.251.32:88/live/dino/dino/374.ts
+#EXTINF:-1,At the Races
+http://62.210.251.32:88/live/dino/dino/375.ts
+#EXTINF:-1,AP
+http://62.210.251.32:88/live/dino/dino/376.ts
+#EXTINF:-1,Sportklub 3
+http://62.210.251.32:88/live/dino/dino/653.ts
+#EXTINF:-1,Sportklub 2
+http://62.210.251.32:88/live/dino/dino/654.ts
+#EXTINF:-1,Sportklub 1
+http://62.210.251.32:88/live/dino/dino/655.ts
+#EXTINF:-1,OteSports8HD
+http://62.210.251.32:88/live/dino/dino/681.ts
+#EXTINF:-1,OteSports7HD
+http://62.210.251.32:88/live/dino/dino/682.ts
+#EXTINF:-1,OteSport6HD
+http://62.210.251.32:88/live/dino/dino/683.ts
+#EXTINF:-1,OteSport5HD
+http://62.210.251.32:88/live/dino/dino/684.ts
+#EXTINF:-1,OteSport4HD
+http://62.210.251.32:88/live/dino/dino/685.ts
+#EXTINF:-1,OteSport3HD
+http://62.210.251.32:88/live/dino/dino/686.ts
+#EXTINF:-1,OteSport2HD
+http://62.210.251.32:88/live/dino/dino/687.ts
+#EXTINF:-1,OteSport1HD
+http://62.210.251.32:88/live/dino/dino/688.ts
+#EXTINF:-1,OteCinema4HD
+http://62.210.251.32:88/live/dino/dino/689.ts
+#EXTINF:-1,OteCinema3
+http://62.210.251.32:88/live/dino/dino/690.ts
+#EXTINF:-1,OteCinema2HD
+http://62.210.251.32:88/live/dino/dino/691.ts
+#EXTINF:-1,OteCinema1HD
+http://62.210.251.32:88/live/dino/dino/692.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://62.210.251.32:88/live/dino/dino/664.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://62.210.251.32:88/live/dino/dino/665.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://62.210.251.32:88/live/dino/dino/666.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://62.210.251.32:88/live/dino/dino/667.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://62.210.251.32:88/live/dino/dino/668.ts
+#EXTINF:-1,IT: RAI SPORT 2
+http://62.210.251.32:88/live/dino/dino/672.ts
+#EXTINF:-1,IT: RAI SPORT 1
+http://62.210.251.32:88/live/dino/dino/673.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://62.210.251.32:88/live/dino/dino/674.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://62.210.251.32:88/live/dino/dino/675.ts
+#EXTINF:-1,CTH Channel Stadium X HD
+http://62.210.251.32:88/live/dino/dino/693.ts
+#EXTINF:-1,CTH Channel Stadium 6 HD
+http://62.210.251.32:88/live/dino/dino/694.ts
+#EXTINF:-1,CTH Channel Stadium 5 HD
+http://62.210.251.32:88/live/dino/dino/695.ts
+#EXTINF:-1,CTH Channel Stadium 4 HD
+http://62.210.251.32:88/live/dino/dino/696.ts
+#EXTINF:-1,CTH Channel Stadium 3 HD
+http://62.210.251.32:88/live/dino/dino/697.ts
+#EXTINF:-1,CTH Channel Stadium 2 HD
+http://62.210.251.32:88/live/dino/dino/698.ts
+#EXTINF:-1,CTH Channel Stadium 1 HD
+http://62.210.251.32:88/live/dino/dino/699.ts
+#EXTINF:-1,Astro4
+http://62.210.251.32:88/live/dino/dino/700.ts
+#EXTINF:-1,Astro3
+http://62.210.251.32:88/live/dino/dino/701.ts
+#EXTINF:-1,Astro2
+http://62.210.251.32:88/live/dino/dino/702.ts
+#EXTINF:-1,Astro1
+http://62.210.251.32:88/live/dino/dino/703.ts
+#EXTINF:-1,arenasports5
+http://62.210.251.32:88/live/dino/dino/676.ts
+#EXTINF:-1,arena4
+http://62.210.251.32:88/live/dino/dino/677.ts
+#EXTINF:-1,arena3
+http://62.210.251.32:88/live/dino/dino/678.ts
+#EXTINF:-1,arena2
+http://62.210.251.32:88/live/dino/dino/679.ts
+#EXTINF:-1,arena1
+http://62.210.251.32:88/live/dino/dino/680.ts
